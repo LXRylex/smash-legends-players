@@ -8,7 +8,7 @@ app.set("trust proxy", 1);
 
 app.use(express.json());
 
-// Open CORS for testing
+// Open CORS for testin
 app.use((req, res, next) => {
   res.setHeader("Access-Control-Allow-Origin", "*");
   res.setHeader("Access-Control-Allow-Headers", "*");
