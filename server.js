@@ -8,7 +8,7 @@ app.set("trust proxy", 1);
 
 app.use(express.json());
 
-// Open CORS for testin
+// Open CORS for testing
 app.use((req, res, next) => {
   res.setHeader("Access-Control-Allow-Origin", "*");
   res.setHeader("Access-Control-Allow-Headers", "*");
@@ -49,7 +49,6 @@ const profileLimiter = rateLimit({
   message: {
     error: "Too many requests, please try again later.",
   },
-  keyGenerator: (req) => req.ip,
 });
 
 // ===== Normalize =====
