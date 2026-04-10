@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "saved_at": "2026-04-10T19:37:10.290Z",
+  "saved_at": "2026-04-10T19:37:56.958Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -13,10 +13,10 @@
     "trophy": 52125,
     "highestTrophy": 52266,
     "fame": 41160,
-    "iconId": 404010,
+    "iconId": 412201,
     "frameId": 1000104,
     "clan_name": "JustTry",
-    "updatedAt": "2026-04-10T19:36:43.000Z"
+    "updatedAt": "2026-04-10T19:37:48.000Z"
   },
   "rankDetails": [
     {
