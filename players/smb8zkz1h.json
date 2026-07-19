@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "saved_at": "2026-07-19T13:33:00.720Z",
+  "source": {
+    "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
+    "cache": "",
+    "cache_date": ""
+  },
+  "player": {
+    "user_uid": "smb8zkz1h",
+    "name": "Sayaka",
+    "level": 1,
+    "trophy": 0,
+    "highestTrophy": 0,
+    "fame": 0,
+    "iconId": 400003,
+    "frameId": 1000003,
+    "clan_name": null,
+    "updatedAt": "2026-06-17T17:45:40.000Z"
+  },
+  "rankDetails": [],
+  "statsAll": {
+    "competitive": [],
+    "mode": []
+  }
+}
