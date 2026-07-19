@@ -1,6 +1,6 @@
 {
-  "schema_version": 1,
-  "saved_at": "2026-07-19T10:32:18.827Z",
+  "schema_version": 2,
+  "saved_at": "2026-07-19T17:28:35.087Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -10,13 +10,13 @@
     "user_uid": "1sq0fmo08",
     "name": "IWishIWasABirb",
     "level": 292,
-    "trophy": 50879,
+    "trophy": 50890,
     "highestTrophy": 50917,
-    "fame": 24495,
+    "fame": 24525,
     "iconId": 400158,
     "frameId": 1000117,
     "clan_name": "CrimsonムFate",
-    "updatedAt": "2026-07-19T08:57:08.000Z"
+    "updatedAt": "2026-07-19T17:15:57.000Z"
   },
   "rankDetails": [
     {
@@ -4534,11 +4534,11 @@
       {
         "modeId": 18,
         "characterId": 136,
-        "play": 36,
-        "win": 27,
-        "mvp": 21,
-        "kill": 51,
-        "death": 26
+        "play": 37,
+        "win": 28,
+        "mvp": 22,
+        "kill": 55,
+        "death": 27
       },
       {
         "modeId": 18,
@@ -5488,11 +5488,11 @@
       {
         "modeId": 32,
         "characterId": 127,
-        "play": 3,
-        "win": 1,
-        "mvp": 1,
-        "kill": 6,
-        "death": 11
+        "play": 4,
+        "win": 2,
+        "mvp": 2,
+        "kill": 10,
+        "death": 13
       },
       {
         "modeId": 32,
@@ -5551,11 +5551,11 @@
       {
         "modeId": 32,
         "characterId": 136,
-        "play": 3,
-        "win": 3,
-        "mvp": 3,
-        "kill": 17,
-        "death": 2
+        "play": 4,
+        "win": 4,
+        "mvp": 4,
+        "kill": 23,
+        "death": 4
       },
       {
         "modeId": 32,
@@ -5578,11 +5578,11 @@
       {
         "modeId": 32,
         "characterId": 141,
-        "play": 124,
-        "win": 90,
-        "mvp": 51,
-        "kill": 527,
-        "death": 148
+        "play": 126,
+        "win": 91,
+        "mvp": 53,
+        "kill": 545,
+        "death": 152
       },
       {
         "modeId": 32,
@@ -5630,5 +5630,12 @@
         "death": 14
       }
     ]
-  }
+  },
+  "name_history": [
+    {
+      "name": "IWishIWasABirb",
+      "first_seen_at": "2026-07-19T10:32:18.827Z",
+      "last_seen_at": "2026-07-19T17:28:35.087Z"
+    }
+  ]
 }
