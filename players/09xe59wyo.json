@@ -1,6 +1,6 @@
 {
-  "schema_version": 1,
-  "saved_at": "2026-07-19T10:05:00.329Z",
+  "schema_version": 2,
+  "saved_at": "2026-07-19T20:12:39.819Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -6200,5 +6200,12 @@
         "death": 3
       }
     ]
-  }
+  },
+  "name_history": [
+    {
+      "name": "Phoenixシ",
+      "first_seen_at": "2026-07-19T10:05:00.329Z",
+      "last_seen_at": "2026-07-19T20:12:39.819Z"
+    }
+  ]
 }
