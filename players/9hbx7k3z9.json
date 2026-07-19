@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "saved_at": "2026-04-12T15:07:18.818Z",
+  "saved_at": "2026-07-19T09:50:11.037Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -9,14 +9,14 @@
   "player": {
     "user_uid": "9hbx7k3z9",
     "name": "Yuilix",
-    "level": 337,
-    "trophy": 47181,
-    "highestTrophy": 47240,
-    "fame": 42725,
-    "iconId": 400109,
-    "frameId": 1000094,
+    "level": 339,
+    "trophy": 48543,
+    "highestTrophy": 48635,
+    "fame": 45045,
+    "iconId": 404045,
+    "frameId": 0,
     "clan_name": "LethalXs",
-    "updatedAt": "2026-04-11T22:28:46.000Z"
+    "updatedAt": "2026-07-19T09:24:54.000Z"
   },
   "rankDetails": [
     {
@@ -695,15 +695,29 @@
       "user_uid": "9hbx7k3z9",
       "seasonId": 50,
       "modeId": 99,
+      "rankPoint": 683,
+      "maxRankPoint": 683,
+      "tier": "GOLD_3",
+      "tierScore": 83,
+      "maxTier": "GOLD_3",
+      "maxTierScore": 83,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 6
+    },
+    {
+      "user_uid": "9hbx7k3z9",
+      "seasonId": 51,
+      "modeId": 99,
       "rankPoint": 0,
       "maxRankPoint": 0,
       "tier": "UNRANKED",
       "tierScore": 0,
       "maxTier": "UNRANKED",
       "maxTierScore": 0,
-      "remainPlacement": 1,
+      "remainPlacement": 6,
       "totalPlacement": 6,
-      "gameCount": 5
+      "gameCount": 0
     }
   ],
   "statsAll": {
@@ -2792,8 +2806,8 @@
         "seasonId": 50,
         "modeId": 4,
         "characterId": 101,
-        "play": 4,
-        "win": 4,
+        "play": 5,
+        "win": 5,
         "mvp": 1
       },
       {
@@ -2808,8 +2822,8 @@
         "seasonId": 50,
         "modeId": 99,
         "characterId": 101,
-        "play": 4,
-        "win": 4,
+        "play": 5,
+        "win": 5,
         "mvp": 1
       },
       {
@@ -3041,20 +3055,20 @@
       {
         "modeId": 3,
         "characterId": 104,
-        "play": 1268,
+        "play": 1269,
         "win": 875,
         "mvp": 575,
-        "kill": 2943,
-        "death": 1930
+        "kill": 2944,
+        "death": 1933
       },
       {
         "modeId": 3,
         "characterId": 105,
-        "play": 19,
+        "play": 20,
         "win": 11,
         "mvp": 11,
-        "kill": 42,
-        "death": 33
+        "kill": 43,
+        "death": 36
       },
       {
         "modeId": 3,
@@ -3104,20 +3118,20 @@
       {
         "modeId": 3,
         "characterId": 112,
-        "play": 80,
-        "win": 59,
-        "mvp": 55,
-        "kill": 190,
-        "death": 102
+        "play": 92,
+        "win": 69,
+        "mvp": 65,
+        "kill": 218,
+        "death": 112
       },
       {
         "modeId": 3,
         "characterId": 113,
-        "play": 46,
-        "win": 27,
-        "mvp": 22,
-        "kill": 100,
-        "death": 77
+        "play": 48,
+        "win": 29,
+        "mvp": 24,
+        "kill": 104,
+        "death": 79
       },
       {
         "modeId": 3,
@@ -3329,11 +3343,11 @@
       {
         "modeId": 3,
         "characterId": 143,
-        "play": 17,
-        "win": 13,
-        "mvp": 13,
-        "kill": 39,
-        "death": 18
+        "play": 19,
+        "win": 15,
+        "mvp": 15,
+        "kill": 45,
+        "death": 22
       },
       {
         "modeId": 3,
@@ -3383,10 +3397,10 @@
       {
         "modeId": 4,
         "characterId": 101,
-        "play": 415,
-        "win": 335,
-        "mvp": 192,
-        "kill": 531,
+        "play": 417,
+        "win": 337,
+        "mvp": 193,
+        "kill": 543,
         "death": 169
       },
       {
@@ -3563,10 +3577,10 @@
       {
         "modeId": 4,
         "characterId": 122,
-        "play": 23,
-        "win": 17,
+        "play": 24,
+        "win": 18,
         "mvp": 12,
-        "kill": 24,
+        "kill": 27,
         "death": 13
       },
       {
@@ -3707,11 +3721,11 @@
       {
         "modeId": 4,
         "characterId": 141,
-        "play": 14,
-        "win": 14,
+        "play": 15,
+        "win": 15,
         "mvp": 5,
-        "kill": 43,
-        "death": 11
+        "kill": 44,
+        "death": 12
       },
       {
         "modeId": 4,
@@ -4004,11 +4018,11 @@
       {
         "modeId": 15,
         "characterId": 101,
-        "play": 333,
-        "win": 271,
-        "mvp": 201,
-        "kill": 1180,
-        "death": 434
+        "play": 341,
+        "win": 278,
+        "mvp": 206,
+        "kill": 1217,
+        "death": 448
       },
       {
         "modeId": 15,
@@ -4031,11 +4045,11 @@
       {
         "modeId": 15,
         "characterId": 104,
-        "play": 812,
-        "win": 683,
-        "mvp": 481,
-        "kill": 2898,
-        "death": 1151
+        "play": 827,
+        "win": 697,
+        "mvp": 491,
+        "kill": 2964,
+        "death": 1164
       },
       {
         "modeId": 15,
@@ -4094,11 +4108,11 @@
       {
         "modeId": 15,
         "characterId": 112,
-        "play": 646,
-        "win": 556,
-        "mvp": 446,
-        "kill": 2367,
-        "death": 790
+        "play": 705,
+        "win": 614,
+        "mvp": 481,
+        "kill": 2594,
+        "death": 827
       },
       {
         "modeId": 15,
@@ -4112,11 +4126,11 @@
       {
         "modeId": 15,
         "characterId": 114,
-        "play": 4,
-        "win": 3,
+        "play": 5,
+        "win": 4,
         "mvp": 4,
-        "kill": 17,
-        "death": 3
+        "kill": 19,
+        "death": 4
       },
       {
         "modeId": 15,
@@ -4148,10 +4162,10 @@
       {
         "modeId": 15,
         "characterId": 118,
-        "play": 217,
-        "win": 199,
-        "mvp": 123,
-        "kill": 728,
+        "play": 220,
+        "win": 202,
+        "mvp": 125,
+        "kill": 740,
         "death": 239
       },
       {
@@ -4184,11 +4198,11 @@
       {
         "modeId": 15,
         "characterId": 122,
-        "play": 12,
-        "win": 10,
-        "mvp": 3,
-        "kill": 33,
-        "death": 14
+        "play": 16,
+        "win": 13,
+        "mvp": 6,
+        "kill": 46,
+        "death": 18
       },
       {
         "modeId": 15,
@@ -4211,11 +4225,11 @@
       {
         "modeId": 15,
         "characterId": 125,
-        "play": 181,
+        "play": 182,
         "win": 160,
-        "mvp": 118,
-        "kill": 720,
-        "death": 195
+        "mvp": 119,
+        "kill": 722,
+        "death": 198
       },
       {
         "modeId": 15,
@@ -4229,11 +4243,11 @@
       {
         "modeId": 15,
         "characterId": 127,
-        "play": 91,
+        "play": 92,
         "win": 80,
-        "mvp": 55,
-        "kill": 366,
-        "death": 108
+        "mvp": 56,
+        "kill": 369,
+        "death": 111
       },
       {
         "modeId": 15,
@@ -4364,11 +4378,11 @@
       {
         "modeId": 15,
         "characterId": 143,
-        "play": 88,
-        "win": 68,
-        "mvp": 56,
-        "kill": 329,
-        "death": 133
+        "play": 90,
+        "win": 70,
+        "mvp": 58,
+        "kill": 338,
+        "death": 136
       },
       {
         "modeId": 15,
@@ -4382,11 +4396,11 @@
       {
         "modeId": 15,
         "characterId": 145,
-        "play": 72,
-        "win": 60,
-        "mvp": 55,
-        "kill": 281,
-        "death": 78
+        "play": 76,
+        "win": 64,
+        "mvp": 58,
+        "kill": 295,
+        "death": 79
       },
       {
         "modeId": 15,
@@ -4400,10 +4414,10 @@
       {
         "modeId": 15,
         "characterId": 147,
-        "play": 13,
-        "win": 12,
+        "play": 14,
+        "win": 13,
         "mvp": 9,
-        "kill": 55,
+        "kill": 57,
         "death": 10
       },
       {
@@ -4706,11 +4720,11 @@
       {
         "modeId": 18,
         "characterId": 101,
-        "play": 648,
-        "win": 553,
-        "mvp": 425,
-        "kill": 1808,
-        "death": 709
+        "play": 652,
+        "win": 557,
+        "mvp": 428,
+        "kill": 1825,
+        "death": 712
       },
       {
         "modeId": 18,
@@ -4733,11 +4747,11 @@
       {
         "modeId": 18,
         "characterId": 104,
-        "play": 2005,
-        "win": 1612,
-        "mvp": 1156,
-        "kill": 7621,
-        "death": 3069
+        "play": 2009,
+        "win": 1616,
+        "mvp": 1160,
+        "kill": 7643,
+        "death": 3070
       },
       {
         "modeId": 18,
@@ -4796,11 +4810,11 @@
       {
         "modeId": 18,
         "characterId": 112,
-        "play": 988,
-        "win": 780,
-        "mvp": 736,
-        "kill": 4030,
-        "death": 1331
+        "play": 1114,
+        "win": 903,
+        "mvp": 810,
+        "kill": 4365,
+        "death": 1372
       },
       {
         "modeId": 18,
@@ -4850,11 +4864,11 @@
       {
         "modeId": 18,
         "characterId": 118,
-        "play": 189,
-        "win": 148,
-        "mvp": 137,
-        "kill": 593,
-        "death": 194
+        "play": 193,
+        "win": 150,
+        "mvp": 139,
+        "kill": 600,
+        "death": 198
       },
       {
         "modeId": 18,
@@ -5102,20 +5116,20 @@
       {
         "modeId": 18,
         "characterId": 147,
-        "play": 56,
+        "play": 58,
         "win": 50,
-        "mvp": 34,
+        "mvp": 36,
         "kill": 151,
-        "death": 52
+        "death": 56
       },
       {
         "modeId": 18,
         "characterId": 148,
-        "play": 8,
-        "win": 6,
-        "mvp": 4,
-        "kill": 23,
-        "death": 7
+        "play": 12,
+        "win": 9,
+        "mvp": 8,
+        "kill": 37,
+        "death": 9
       },
       {
         "modeId": 20,
