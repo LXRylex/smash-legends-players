@@ -1,6 +1,6 @@
 {
-  "schema_version": 1,
-  "saved_at": "2026-07-19T10:11:21.771Z",
+  "schema_version": 2,
+  "saved_at": "2026-07-20T18:19:56.872Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -10,13 +10,13 @@
     "user_uid": "0th8pfquj",
     "name": "htsl99",
     "level": 407,
-    "trophy": 36814,
+    "trophy": 36823,
     "highestTrophy": 36928,
     "fame": 53545,
     "iconId": 400156,
     "frameId": 1000052,
     "clan_name": "SuperSmasher10",
-    "updatedAt": "2026-07-18T20:05:56.000Z"
+    "updatedAt": "2026-07-20T17:53:08.000Z"
   },
   "rankDetails": [
     {
@@ -3999,11 +3999,11 @@
       {
         "modeId": 3,
         "characterId": 128,
-        "play": 184,
-        "win": 99,
-        "mvp": 99,
-        "kill": 379,
-        "death": 359
+        "play": 185,
+        "win": 100,
+        "mvp": 100,
+        "kill": 382,
+        "death": 360
       },
       {
         "modeId": 3,
@@ -6202,5 +6202,12 @@
         "death": 10
       }
     ]
-  }
+  },
+  "name_history": [
+    {
+      "name": "htsl99",
+      "first_seen_at": "2026-07-19T10:11:21.771Z",
+      "last_seen_at": "2026-07-20T18:19:56.872Z"
+    }
+  ]
 }
