@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-07-20T16:33:33.055Z",
+  "saved_at": "2026-07-20T18:17:34.041Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -10,13 +10,13 @@
     "user_uid": "slo4l7993",
     "name": "marvelrivalsfan",
     "level": 336,
-    "trophy": 58461,
+    "trophy": 58453,
     "highestTrophy": 58729,
     "fame": 49710,
     "iconId": 404035,
     "frameId": 1000104,
     "clan_name": "Akira",
-    "updatedAt": "2026-07-20T16:30:51.000Z"
+    "updatedAt": "2026-07-20T16:43:00.000Z"
   },
   "rankDetails": [
     {
@@ -5394,7 +5394,7 @@
     {
       "name": "marvelrivalsfan",
       "first_seen_at": "2026-07-20T16:33:33.055Z",
-      "last_seen_at": "2026-07-20T16:33:33.055Z"
+      "last_seen_at": "2026-07-20T18:17:34.041Z"
     }
   ]
 }
