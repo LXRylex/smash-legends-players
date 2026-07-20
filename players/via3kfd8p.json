@@ -1,0 +1,319 @@
+{
+  "schema_version": 2,
+  "saved_at": "2026-07-20T02:11:35.080Z",
+  "source": {
+    "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
+    "cache": "",
+    "cache_date": ""
+  },
+  "player": {
+    "user_uid": "via3kfd8p",
+    "name": "Sepherator",
+    "level": 117,
+    "trophy": 7913,
+    "highestTrophy": 7945,
+    "fame": 0,
+    "iconId": 412102,
+    "frameId": 1000005,
+    "clan_name": "MightyWarrior",
+    "updatedAt": "2026-07-20T02:10:16.000Z"
+  },
+  "rankDetails": [
+    {
+      "user_uid": "via3kfd8p",
+      "seasonId": 48,
+      "modeId": 99,
+      "rankPoint": 466,
+      "maxRankPoint": 487,
+      "tier": "SILVER_2",
+      "tierScore": 66,
+      "maxTier": "SILVER_2",
+      "maxTierScore": 87,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 12
+    },
+    {
+      "user_uid": "via3kfd8p",
+      "seasonId": 49,
+      "modeId": 99,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 6,
+      "totalPlacement": 6,
+      "gameCount": 0
+    }
+  ],
+  "statsAll": {
+    "competitive": [
+      {
+        "seasonId": 48,
+        "modeId": 4,
+        "characterId": 102,
+        "play": 1,
+        "win": 0,
+        "mvp": 0
+      },
+      {
+        "seasonId": 48,
+        "modeId": 4,
+        "characterId": 106,
+        "play": 9,
+        "win": 4,
+        "mvp": 4
+      },
+      {
+        "seasonId": 48,
+        "modeId": 4,
+        "characterId": 121,
+        "play": 2,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 48,
+        "modeId": 99,
+        "characterId": 102,
+        "play": 1,
+        "win": 0,
+        "mvp": 0
+      },
+      {
+        "seasonId": 48,
+        "modeId": 99,
+        "characterId": 106,
+        "play": 9,
+        "win": 4,
+        "mvp": 4
+      },
+      {
+        "seasonId": 48,
+        "modeId": 99,
+        "characterId": 121,
+        "play": 2,
+        "win": 1,
+        "mvp": 0
+      }
+    ],
+    "mode": [
+      {
+        "modeId": 3,
+        "characterId": 101,
+        "play": 59,
+        "win": 35,
+        "mvp": 35,
+        "kill": 121,
+        "death": 94
+      },
+      {
+        "modeId": 3,
+        "characterId": 102,
+        "play": 78,
+        "win": 48,
+        "mvp": 48,
+        "kill": 155,
+        "death": 120
+      },
+      {
+        "modeId": 3,
+        "characterId": 105,
+        "play": 67,
+        "win": 52,
+        "mvp": 52,
+        "kill": 157,
+        "death": 70
+      },
+      {
+        "modeId": 3,
+        "characterId": 106,
+        "play": 172,
+        "win": 106,
+        "mvp": 106,
+        "kill": 326,
+        "death": 228
+      },
+      {
+        "modeId": 3,
+        "characterId": 108,
+        "play": 7,
+        "win": 4,
+        "mvp": 4,
+        "kill": 13,
+        "death": 13
+      },
+      {
+        "modeId": 3,
+        "characterId": 114,
+        "play": 6,
+        "win": 2,
+        "mvp": 2,
+        "kill": 8,
+        "death": 14
+      },
+      {
+        "modeId": 3,
+        "characterId": 119,
+        "play": 28,
+        "win": 23,
+        "mvp": 23,
+        "kill": 69,
+        "death": 26
+      },
+      {
+        "modeId": 3,
+        "characterId": 121,
+        "play": 1995,
+        "win": 1175,
+        "mvp": 1175,
+        "kill": 3308,
+        "death": 2721
+      },
+      {
+        "modeId": 3,
+        "characterId": 124,
+        "play": 7,
+        "win": 5,
+        "mvp": 5,
+        "kill": 18,
+        "death": 11
+      },
+      {
+        "modeId": 3,
+        "characterId": 125,
+        "play": 20,
+        "win": 12,
+        "mvp": 12,
+        "kill": 40,
+        "death": 26
+      },
+      {
+        "modeId": 3,
+        "characterId": 129,
+        "play": 80,
+        "win": 57,
+        "mvp": 57,
+        "kill": 184,
+        "death": 93
+      },
+      {
+        "modeId": 3,
+        "characterId": 132,
+        "play": 11,
+        "win": 8,
+        "mvp": 8,
+        "kill": 26,
+        "death": 15
+      },
+      {
+        "modeId": 3,
+        "characterId": 139,
+        "play": 6,
+        "win": 4,
+        "mvp": 4,
+        "kill": 12,
+        "death": 8
+      },
+      {
+        "modeId": 4,
+        "characterId": 106,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 121,
+        "play": 12,
+        "win": 10,
+        "mvp": 6,
+        "kill": 17,
+        "death": 5
+      },
+      {
+        "modeId": 15,
+        "characterId": 106,
+        "play": 5,
+        "win": 5,
+        "mvp": 1,
+        "kill": 18,
+        "death": 1
+      },
+      {
+        "modeId": 15,
+        "characterId": 108,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 4,
+        "death": 2
+      },
+      {
+        "modeId": 15,
+        "characterId": 114,
+        "play": 7,
+        "win": 5,
+        "mvp": 6,
+        "kill": 28,
+        "death": 11
+      },
+      {
+        "modeId": 15,
+        "characterId": 121,
+        "play": 16,
+        "win": 13,
+        "mvp": 10,
+        "kill": 54,
+        "death": 16
+      },
+      {
+        "modeId": 17,
+        "characterId": 106,
+        "play": 4,
+        "win": 4,
+        "mvp": 1,
+        "kill": 6,
+        "death": 5
+      },
+      {
+        "modeId": 18,
+        "characterId": 106,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 18,
+        "characterId": 121,
+        "play": 12,
+        "win": 10,
+        "mvp": 8,
+        "kill": 6,
+        "death": 14
+      },
+      {
+        "modeId": 32,
+        "characterId": 121,
+        "play": 2,
+        "win": 2,
+        "mvp": 1,
+        "kill": 3,
+        "death": 1
+      }
+    ]
+  },
+  "name_history": [
+    {
+      "name": "Sepherator",
+      "first_seen_at": "2026-07-20T02:11:35.080Z",
+      "last_seen_at": "2026-07-20T02:11:35.080Z"
+    }
+  ]
+}
