@@ -1,0 +1,61 @@
+{
+  "schema_version": 2,
+  "saved_at": "2026-07-21T13:19:01.228Z",
+  "source": {
+    "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
+    "cache": "",
+    "cache_date": ""
+  },
+  "player": {
+    "user_uid": "njfj67po5",
+    "name": "Crotyx",
+    "level": 11,
+    "trophy": 870,
+    "highestTrophy": 870,
+    "fame": 0,
+    "iconId": 402005,
+    "frameId": 1000091,
+    "clan_name": null,
+    "updatedAt": "2025-03-25T03:04:17.595Z"
+  },
+  "rankDetails": [],
+  "statsAll": {
+    "competitive": [],
+    "mode": [
+      {
+        "modeId": 3,
+        "characterId": 108,
+        "play": 7,
+        "win": 7,
+        "mvp": 7,
+        "kill": 19,
+        "death": 1
+      },
+      {
+        "modeId": 3,
+        "characterId": 126,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 3,
+        "death": 0
+      },
+      {
+        "modeId": 18,
+        "characterId": 108,
+        "play": 3,
+        "win": 3,
+        "mvp": 2,
+        "kill": 9,
+        "death": 1
+      }
+    ]
+  },
+  "name_history": [
+    {
+      "name": "Crotyx",
+      "first_seen_at": "2026-07-21T13:19:01.228Z",
+      "last_seen_at": "2026-07-21T13:19:01.228Z"
+    }
+  ]
+}
