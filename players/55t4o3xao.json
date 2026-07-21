@@ -1,0 +1,274 @@
+{
+  "schema_version": 2,
+  "saved_at": "2026-07-21T13:19:41.342Z",
+  "source": {
+    "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
+    "cache": "",
+    "cache_date": ""
+  },
+  "player": {
+    "user_uid": "55t4o3xao",
+    "name": "Gregsunshine",
+    "level": 30,
+    "trophy": 4122,
+    "highestTrophy": 4122,
+    "fame": 0,
+    "iconId": 400514,
+    "frameId": 0,
+    "clan_name": null,
+    "updatedAt": "2025-03-25T03:04:17.595Z"
+  },
+  "rankDetails": [
+    {
+      "user_uid": "55t4o3xao",
+      "seasonId": 28,
+      "modeId": 4,
+      "rankPoint": 816,
+      "maxRankPoint": 869,
+      "tier": "GOLD_1",
+      "tierScore": 16,
+      "maxTier": "GOLD_1",
+      "maxTierScore": 69,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 11
+    },
+    {
+      "user_uid": "55t4o3xao",
+      "seasonId": 29,
+      "modeId": 4,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 5,
+      "totalPlacement": 6,
+      "gameCount": 1
+    },
+    {
+      "user_uid": "55t4o3xao",
+      "seasonId": 30,
+      "modeId": 4,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 6,
+      "totalPlacement": 6,
+      "gameCount": 0
+    }
+  ],
+  "statsAll": {
+    "competitive": [
+      {
+        "seasonId": 28,
+        "modeId": 4,
+        "characterId": 136,
+        "play": 11,
+        "win": 8,
+        "mvp": 4
+      },
+      {
+        "seasonId": 29,
+        "modeId": 4,
+        "characterId": 136,
+        "play": 1,
+        "win": 1,
+        "mvp": 0
+      }
+    ],
+    "mode": [
+      {
+        "modeId": 1,
+        "characterId": 123,
+        "play": 6,
+        "win": 6,
+        "mvp": 6,
+        "kill": 37,
+        "death": 4
+      },
+      {
+        "modeId": 3,
+        "characterId": 101,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 6,
+        "death": 0
+      },
+      {
+        "modeId": 3,
+        "characterId": 103,
+        "play": 6,
+        "win": 6,
+        "mvp": 6,
+        "kill": 17,
+        "death": 4
+      },
+      {
+        "modeId": 3,
+        "characterId": 106,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 6,
+        "death": 2
+      },
+      {
+        "modeId": 3,
+        "characterId": 108,
+        "play": 3,
+        "win": 3,
+        "mvp": 3,
+        "kill": 8,
+        "death": 1
+      },
+      {
+        "modeId": 3,
+        "characterId": 123,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 6,
+        "death": 1
+      },
+      {
+        "modeId": 3,
+        "characterId": 128,
+        "play": 11,
+        "win": 7,
+        "mvp": 7,
+        "kill": 24,
+        "death": 12
+      },
+      {
+        "modeId": 4,
+        "characterId": 109,
+        "play": 14,
+        "win": 8,
+        "mvp": 9,
+        "kill": 35,
+        "death": 18
+      },
+      {
+        "modeId": 4,
+        "characterId": 122,
+        "play": 6,
+        "win": 6,
+        "mvp": 2,
+        "kill": 17,
+        "death": 1
+      },
+      {
+        "modeId": 4,
+        "characterId": 123,
+        "play": 2,
+        "win": 2,
+        "mvp": 1,
+        "kill": 11,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 128,
+        "play": 45,
+        "win": 29,
+        "mvp": 14,
+        "kill": 118,
+        "death": 69
+      },
+      {
+        "modeId": 4,
+        "characterId": 136,
+        "play": 19,
+        "win": 18,
+        "mvp": 15,
+        "kill": 59,
+        "death": 20
+      },
+      {
+        "modeId": 15,
+        "characterId": 103,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 6,
+        "death": 0
+      },
+      {
+        "modeId": 15,
+        "characterId": 123,
+        "play": 6,
+        "win": 6,
+        "mvp": 6,
+        "kill": 33,
+        "death": 2
+      },
+      {
+        "modeId": 18,
+        "characterId": 103,
+        "play": 3,
+        "win": 3,
+        "mvp": 3,
+        "kill": 14,
+        "death": 6
+      },
+      {
+        "modeId": 18,
+        "characterId": 108,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 4,
+        "death": 0
+      },
+      {
+        "modeId": 18,
+        "characterId": 123,
+        "play": 12,
+        "win": 11,
+        "mvp": 12,
+        "kill": 37,
+        "death": 6
+      },
+      {
+        "modeId": 20,
+        "characterId": 101,
+        "play": 3,
+        "win": 2,
+        "mvp": 3,
+        "kill": 16,
+        "death": 2
+      },
+      {
+        "modeId": 20,
+        "characterId": 103,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 6,
+        "death": 0
+      },
+      {
+        "modeId": 20,
+        "characterId": 122,
+        "play": 3,
+        "win": 3,
+        "mvp": 3,
+        "kill": 14,
+        "death": 4
+      }
+    ]
+  },
+  "name_history": [
+    {
+      "name": "Gregsunshine",
+      "first_seen_at": "2026-07-21T13:19:41.342Z",
+      "last_seen_at": "2026-07-21T13:19:41.342Z"
+    }
+  ]
+}
