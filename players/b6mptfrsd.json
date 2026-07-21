@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "saved_at": "2026-07-21T17:11:35.235Z",
+  "source": {
+    "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
+    "cache": "",
+    "cache_date": ""
+  },
+  "player": {
+    "user_uid": "b6mptfrsd",
+    "name": "kebablex",
+    "level": 2,
+    "trophy": 0,
+    "highestTrophy": 0,
+    "fame": 0,
+    "iconId": 400001,
+    "frameId": 1000001,
+    "clan_name": null,
+    "updatedAt": "2022-03-15T03:33:15.790Z"
+  },
+  "rankDetails": [],
+  "statsAll": {
+    "competitive": [],
+    "mode": []
+  },
+  "name_history": [
+    {
+      "name": "kebablex",
+      "first_seen_at": "2026-07-21T17:11:35.235Z",
+      "last_seen_at": "2026-07-21T17:11:35.235Z"
+    }
+  ]
+}
