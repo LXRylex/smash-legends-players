@@ -1,0 +1,76 @@
+{
+  "schema_version": 2,
+  "saved_at": "2026-07-21T17:10:10.694Z",
+  "source": {
+    "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
+    "cache": "",
+    "cache_date": ""
+  },
+  "player": {
+    "user_uid": "w7jioupwa",
+    "name": "LX玄Nas",
+    "level": 12,
+    "trophy": 0,
+    "highestTrophy": 0,
+    "fame": 0,
+    "iconId": 400001,
+    "frameId": 0,
+    "clan_name": null,
+    "updatedAt": "2022-06-01T04:40:37.000Z"
+  },
+  "rankDetails": [
+    {
+      "user_uid": "w7jioupwa",
+      "seasonId": 1,
+      "modeId": 4,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 6,
+      "totalPlacement": 6,
+      "gameCount": 0
+    }
+  ],
+  "statsAll": {
+    "competitive": [],
+    "mode": [
+      {
+        "modeId": 4,
+        "characterId": 101,
+        "play": 4,
+        "win": 3,
+        "mvp": 0,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 106,
+        "play": 4,
+        "win": 1,
+        "mvp": 2,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 116,
+        "play": 11,
+        "win": 7,
+        "mvp": 6,
+        "kill": 0,
+        "death": 0
+      }
+    ]
+  },
+  "name_history": [
+    {
+      "name": "LX玄Nas",
+      "first_seen_at": "2026-07-21T17:10:10.694Z",
+      "last_seen_at": "2026-07-21T17:10:10.694Z"
+    }
+  ]
+}
