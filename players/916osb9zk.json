@@ -1,0 +1,301 @@
+{
+  "schema_version": 2,
+  "saved_at": "2026-07-21T17:09:32.440Z",
+  "source": {
+    "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
+    "cache": "",
+    "cache_date": ""
+  },
+  "player": {
+    "user_uid": "916osb9zk",
+    "name": "D1ODream",
+    "level": 42,
+    "trophy": 4693,
+    "highestTrophy": 4693,
+    "fame": 0,
+    "iconId": 400139,
+    "frameId": 1000002,
+    "clan_name": null,
+    "updatedAt": "2025-05-20T01:43:39.000Z"
+  },
+  "rankDetails": [
+    {
+      "user_uid": "916osb9zk",
+      "seasonId": 38,
+      "modeId": 4,
+      "rankPoint": 508,
+      "maxRankPoint": 534,
+      "tier": "SILVER_1",
+      "tierScore": 8,
+      "maxTier": "SILVER_1",
+      "maxTierScore": 34,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 9
+    },
+    {
+      "user_uid": "916osb9zk",
+      "seasonId": 39,
+      "modeId": 4,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 6,
+      "totalPlacement": 6,
+      "gameCount": 0
+    }
+  ],
+  "statsAll": {
+    "competitive": [
+      {
+        "seasonId": 38,
+        "modeId": 4,
+        "characterId": 105,
+        "play": 3,
+        "win": 2,
+        "mvp": 1
+      },
+      {
+        "seasonId": 38,
+        "modeId": 4,
+        "characterId": 108,
+        "play": 1,
+        "win": 0,
+        "mvp": 0
+      },
+      {
+        "seasonId": 38,
+        "modeId": 4,
+        "characterId": 112,
+        "play": 1,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 38,
+        "modeId": 4,
+        "characterId": 117,
+        "play": 1,
+        "win": 0,
+        "mvp": 0
+      },
+      {
+        "seasonId": 38,
+        "modeId": 4,
+        "characterId": 124,
+        "play": 1,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 38,
+        "modeId": 4,
+        "characterId": 132,
+        "play": 2,
+        "win": 0,
+        "mvp": 0
+      }
+    ],
+    "mode": [
+      {
+        "modeId": 3,
+        "characterId": 108,
+        "play": 3,
+        "win": 2,
+        "mvp": 2,
+        "kill": 8,
+        "death": 5
+      },
+      {
+        "modeId": 4,
+        "characterId": 101,
+        "play": 2,
+        "win": 2,
+        "mvp": 1,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 103,
+        "play": 20,
+        "win": 19,
+        "mvp": 12,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 104,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 105,
+        "play": 23,
+        "win": 20,
+        "mvp": 14,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 106,
+        "play": 6,
+        "win": 6,
+        "mvp": 3,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 108,
+        "play": 2,
+        "win": 0,
+        "mvp": 1,
+        "kill": 5,
+        "death": 5
+      },
+      {
+        "modeId": 4,
+        "characterId": 112,
+        "play": 14,
+        "win": 12,
+        "mvp": 5,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 117,
+        "play": 19,
+        "win": 13,
+        "mvp": 8,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 124,
+        "play": 23,
+        "win": 19,
+        "mvp": 7,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 127,
+        "play": 4,
+        "win": 1,
+        "mvp": 1,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 132,
+        "play": 4,
+        "win": 3,
+        "mvp": 3,
+        "kill": 22,
+        "death": 4
+      },
+      {
+        "modeId": 17,
+        "characterId": 103,
+        "play": 2,
+        "win": 2,
+        "mvp": 1,
+        "kill": 4,
+        "death": 3
+      },
+      {
+        "modeId": 17,
+        "characterId": 112,
+        "play": 2,
+        "win": 1,
+        "mvp": 2,
+        "kill": 3,
+        "death": 1
+      },
+      {
+        "modeId": 18,
+        "characterId": 105,
+        "play": 2,
+        "win": 0,
+        "mvp": 1,
+        "kill": 4,
+        "death": 5
+      },
+      {
+        "modeId": 18,
+        "characterId": 108,
+        "play": 9,
+        "win": 6,
+        "mvp": 6,
+        "kill": 19,
+        "death": 9
+      },
+      {
+        "modeId": 18,
+        "characterId": 109,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 1,
+        "death": 3
+      },
+      {
+        "modeId": 18,
+        "characterId": 112,
+        "play": 11,
+        "win": 8,
+        "mvp": 9,
+        "kill": 26,
+        "death": 5
+      },
+      {
+        "modeId": 18,
+        "characterId": 116,
+        "play": 1,
+        "win": 0,
+        "mvp": 1,
+        "kill": 0,
+        "death": 2
+      },
+      {
+        "modeId": 18,
+        "characterId": 120,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 1,
+        "death": 2
+      },
+      {
+        "modeId": 21,
+        "characterId": 132,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 4,
+        "death": 0
+      }
+    ]
+  },
+  "name_history": [
+    {
+      "name": "D1ODream",
+      "first_seen_at": "2026-07-21T17:09:32.440Z",
+      "last_seen_at": "2026-07-21T17:09:32.440Z"
+    }
+  ]
+}
