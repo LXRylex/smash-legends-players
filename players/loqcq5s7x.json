@@ -1,0 +1,115 @@
+{
+  "schema_version": 2,
+  "saved_at": "2026-07-21T17:10:24.840Z",
+  "source": {
+    "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
+    "cache": "",
+    "cache_date": ""
+  },
+  "player": {
+    "user_uid": "loqcq5s7x",
+    "name": "LX玄maideN",
+    "level": 23,
+    "trophy": 0,
+    "highestTrophy": 0,
+    "fame": 0,
+    "iconId": 400005,
+    "frameId": 1000011,
+    "clan_name": null,
+    "updatedAt": "2023-11-17T01:17:30.000Z"
+  },
+  "rankDetails": [],
+  "statsAll": {
+    "competitive": [],
+    "mode": [
+      {
+        "modeId": 3,
+        "characterId": 104,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 1,
+        "death": 3
+      },
+      {
+        "modeId": 3,
+        "characterId": 112,
+        "play": 2,
+        "win": 0,
+        "mvp": 0,
+        "kill": 2,
+        "death": 6
+      },
+      {
+        "modeId": 3,
+        "characterId": 124,
+        "play": 2,
+        "win": 1,
+        "mvp": 1,
+        "kill": 5,
+        "death": 5
+      },
+      {
+        "modeId": 4,
+        "characterId": 101,
+        "play": 6,
+        "win": 5,
+        "mvp": 0,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 106,
+        "play": 4,
+        "win": 3,
+        "mvp": 0,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 115,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 119,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 123,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 124,
+        "play": 6,
+        "win": 6,
+        "mvp": 0,
+        "kill": 0,
+        "death": 0
+      }
+    ]
+  },
+  "name_history": [
+    {
+      "name": "LX玄maideN",
+      "first_seen_at": "2026-07-21T17:10:24.840Z",
+      "last_seen_at": "2026-07-21T17:10:24.840Z"
+    }
+  ]
+}
