@@ -1,0 +1,232 @@
+{
+  "schema_version": 2,
+  "saved_at": "2026-07-21T17:10:48.571Z",
+  "source": {
+    "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
+    "cache": "",
+    "cache_date": ""
+  },
+  "player": {
+    "user_uid": "zv0k42y06",
+    "name": "LX玄yomaskk",
+    "level": 49,
+    "trophy": 0,
+    "highestTrophy": 0,
+    "fame": 0,
+    "iconId": 400132,
+    "frameId": 1000029,
+    "clan_name": null,
+    "updatedAt": "2022-05-21T21:50:33.000Z"
+  },
+  "rankDetails": [
+    {
+      "user_uid": "zv0k42y06",
+      "seasonId": 2,
+      "modeId": 4,
+      "rankPoint": 468,
+      "maxRankPoint": 535,
+      "tier": "SILVER_2",
+      "tierScore": 68,
+      "maxTier": "SILVER_1",
+      "maxTierScore": 35,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 79
+    }
+  ],
+  "statsAll": {
+    "competitive": [
+      {
+        "seasonId": 2,
+        "modeId": 4,
+        "characterId": 101,
+        "play": 1,
+        "win": 0,
+        "mvp": 0
+      },
+      {
+        "seasonId": 2,
+        "modeId": 4,
+        "characterId": 104,
+        "play": 5,
+        "win": 2,
+        "mvp": 1
+      },
+      {
+        "seasonId": 2,
+        "modeId": 4,
+        "characterId": 110,
+        "play": 23,
+        "win": 10,
+        "mvp": 3
+      },
+      {
+        "seasonId": 2,
+        "modeId": 4,
+        "characterId": 113,
+        "play": 4,
+        "win": 2,
+        "mvp": 0
+      },
+      {
+        "seasonId": 2,
+        "modeId": 4,
+        "characterId": 114,
+        "play": 1,
+        "win": 0,
+        "mvp": 0
+      },
+      {
+        "seasonId": 2,
+        "modeId": 4,
+        "characterId": 116,
+        "play": 11,
+        "win": 9,
+        "mvp": 1
+      },
+      {
+        "seasonId": 2,
+        "modeId": 4,
+        "characterId": 120,
+        "play": 34,
+        "win": 18,
+        "mvp": 14
+      }
+    ],
+    "mode": [
+      {
+        "modeId": 4,
+        "characterId": 101,
+        "play": 19,
+        "win": 13,
+        "mvp": 11,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 102,
+        "play": 12,
+        "win": 10,
+        "mvp": 3,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 104,
+        "play": 30,
+        "win": 21,
+        "mvp": 13,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 106,
+        "play": 20,
+        "win": 16,
+        "mvp": 4,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 109,
+        "play": 25,
+        "win": 18,
+        "mvp": 3,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 110,
+        "play": 68,
+        "win": 43,
+        "mvp": 36,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 111,
+        "play": 17,
+        "win": 10,
+        "mvp": 8,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 112,
+        "play": 25,
+        "win": 16,
+        "mvp": 7,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 113,
+        "play": 30,
+        "win": 19,
+        "mvp": 18,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 114,
+        "play": 32,
+        "win": 20,
+        "mvp": 7,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 116,
+        "play": 21,
+        "win": 17,
+        "mvp": 14,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 117,
+        "play": 11,
+        "win": 10,
+        "mvp": 4,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 120,
+        "play": 38,
+        "win": 30,
+        "mvp": 22,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 127,
+        "play": 16,
+        "win": 13,
+        "mvp": 3,
+        "kill": 0,
+        "death": 0
+      }
+    ]
+  },
+  "name_history": [
+    {
+      "name": "LX玄yomaskk",
+      "first_seen_at": "2026-07-21T17:10:48.571Z",
+      "last_seen_at": "2026-07-21T17:10:48.571Z"
+    }
+  ]
+}
