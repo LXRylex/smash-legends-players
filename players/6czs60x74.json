@@ -1,0 +1,331 @@
+{
+  "schema_version": 2,
+  "saved_at": "2026-07-21T13:15:56.015Z",
+  "source": {
+    "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
+    "cache": "",
+    "cache_date": ""
+  },
+  "player": {
+    "user_uid": "6czs60x74",
+    "name": "Senoshi",
+    "level": 36,
+    "trophy": 5674,
+    "highestTrophy": 5674,
+    "fame": 0,
+    "iconId": 400003,
+    "frameId": 1000006,
+    "clan_name": "SmashPhilippine2",
+    "updatedAt": "2025-11-25T17:06:16.000Z"
+  },
+  "rankDetails": [
+    {
+      "user_uid": "6czs60x74",
+      "seasonId": 43,
+      "modeId": 99,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 4,
+      "totalPlacement": 6,
+      "gameCount": 2
+    },
+    {
+      "user_uid": "6czs60x74",
+      "seasonId": 44,
+      "modeId": 99,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 6,
+      "totalPlacement": 6,
+      "gameCount": 0
+    }
+  ],
+  "statsAll": {
+    "competitive": [
+      {
+        "seasonId": 43,
+        "modeId": 1,
+        "characterId": 126,
+        "play": 1,
+        "win": 0,
+        "mvp": 0
+      },
+      {
+        "seasonId": 43,
+        "modeId": 17,
+        "characterId": 126,
+        "play": 1,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 43,
+        "modeId": 99,
+        "characterId": 126,
+        "play": 2,
+        "win": 1,
+        "mvp": 0
+      }
+    ],
+    "mode": [
+      {
+        "modeId": 1,
+        "characterId": 113,
+        "play": 11,
+        "win": 9,
+        "mvp": 10,
+        "kill": 55,
+        "death": 15
+      },
+      {
+        "modeId": 3,
+        "characterId": 101,
+        "play": 20,
+        "win": 14,
+        "mvp": 14,
+        "kill": 49,
+        "death": 26
+      },
+      {
+        "modeId": 3,
+        "characterId": 103,
+        "play": 13,
+        "win": 13,
+        "mvp": 13,
+        "kill": 39,
+        "death": 5
+      },
+      {
+        "modeId": 3,
+        "characterId": 104,
+        "play": 14,
+        "win": 10,
+        "mvp": 10,
+        "kill": 36,
+        "death": 17
+      },
+      {
+        "modeId": 3,
+        "characterId": 105,
+        "play": 5,
+        "win": 4,
+        "mvp": 4,
+        "kill": 13,
+        "death": 6
+      },
+      {
+        "modeId": 3,
+        "characterId": 106,
+        "play": 4,
+        "win": 3,
+        "mvp": 3,
+        "kill": 9,
+        "death": 5
+      },
+      {
+        "modeId": 3,
+        "characterId": 108,
+        "play": 23,
+        "win": 17,
+        "mvp": 17,
+        "kill": 58,
+        "death": 30
+      },
+      {
+        "modeId": 3,
+        "characterId": 113,
+        "play": 20,
+        "win": 14,
+        "mvp": 14,
+        "kill": 47,
+        "death": 30
+      },
+      {
+        "modeId": 3,
+        "characterId": 115,
+        "play": 14,
+        "win": 10,
+        "mvp": 10,
+        "kill": 32,
+        "death": 21
+      },
+      {
+        "modeId": 3,
+        "characterId": 116,
+        "play": 2,
+        "win": 1,
+        "mvp": 1,
+        "kill": 5,
+        "death": 3
+      },
+      {
+        "modeId": 3,
+        "characterId": 122,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 3,
+        "death": 0
+      },
+      {
+        "modeId": 3,
+        "characterId": 123,
+        "play": 6,
+        "win": 5,
+        "mvp": 5,
+        "kill": 16,
+        "death": 7
+      },
+      {
+        "modeId": 3,
+        "characterId": 125,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 3,
+        "death": 1
+      },
+      {
+        "modeId": 3,
+        "characterId": 126,
+        "play": 27,
+        "win": 18,
+        "mvp": 18,
+        "kill": 53,
+        "death": 40
+      },
+      {
+        "modeId": 3,
+        "characterId": 127,
+        "play": 6,
+        "win": 4,
+        "mvp": 4,
+        "kill": 16,
+        "death": 6
+      },
+      {
+        "modeId": 4,
+        "characterId": 101,
+        "play": 15,
+        "win": 13,
+        "mvp": 15,
+        "kill": 87,
+        "death": 15
+      },
+      {
+        "modeId": 4,
+        "characterId": 106,
+        "play": 3,
+        "win": 3,
+        "mvp": 3,
+        "kill": 10,
+        "death": 1
+      },
+      {
+        "modeId": 4,
+        "characterId": 110,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 8,
+        "death": 1
+      },
+      {
+        "modeId": 4,
+        "characterId": 116,
+        "play": 4,
+        "win": 3,
+        "mvp": 4,
+        "kill": 24,
+        "death": 11
+      },
+      {
+        "modeId": 8,
+        "characterId": 101,
+        "play": 5,
+        "win": 5,
+        "mvp": 5,
+        "kill": 21,
+        "death": 0
+      },
+      {
+        "modeId": 8,
+        "characterId": 108,
+        "play": 13,
+        "win": 12,
+        "mvp": 8,
+        "kill": 47,
+        "death": 5
+      },
+      {
+        "modeId": 8,
+        "characterId": 113,
+        "play": 7,
+        "win": 7,
+        "mvp": 6,
+        "kill": 28,
+        "death": 1
+      },
+      {
+        "modeId": 15,
+        "characterId": 113,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 12,
+        "death": 2
+      },
+      {
+        "modeId": 18,
+        "characterId": 113,
+        "play": 7,
+        "win": 6,
+        "mvp": 7,
+        "kill": 21,
+        "death": 5
+      },
+      {
+        "modeId": 21,
+        "characterId": 101,
+        "play": 7,
+        "win": 6,
+        "mvp": 3,
+        "kill": 18,
+        "death": 4
+      },
+      {
+        "modeId": 21,
+        "characterId": 108,
+        "play": 7,
+        "win": 7,
+        "mvp": 6,
+        "kill": 26,
+        "death": 1
+      },
+      {
+        "modeId": 21,
+        "characterId": 113,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 0,
+        "death": 1
+      }
+    ]
+  },
+  "name_history": [
+    {
+      "name": "Senoshi",
+      "first_seen_at": "2026-07-21T13:15:56.015Z",
+      "last_seen_at": "2026-07-21T13:15:56.015Z"
+    }
+  ]
+}
