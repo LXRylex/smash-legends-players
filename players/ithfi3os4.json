@@ -1,0 +1,266 @@
+{
+  "schema_version": 2,
+  "saved_at": "2026-07-21T17:07:24.735Z",
+  "source": {
+    "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
+    "cache": "",
+    "cache_date": ""
+  },
+  "player": {
+    "user_uid": "ithfi3os4",
+    "name": "LX玄KINGSAMA",
+    "level": 46,
+    "trophy": 0,
+    "highestTrophy": 0,
+    "fame": 0,
+    "iconId": 413002,
+    "frameId": 1000064,
+    "clan_name": null,
+    "updatedAt": "2023-06-13T10:29:35.000Z"
+  },
+  "rankDetails": [
+    {
+      "user_uid": "ithfi3os4",
+      "seasonId": 4,
+      "modeId": 4,
+      "rankPoint": 500,
+      "maxRankPoint": 500,
+      "tier": "SILVER_1",
+      "tierScore": 0,
+      "maxTier": "SILVER_1",
+      "maxTierScore": 0,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 25
+    },
+    {
+      "user_uid": "ithfi3os4",
+      "seasonId": 5,
+      "modeId": 4,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 6,
+      "totalPlacement": 6,
+      "gameCount": 0
+    }
+  ],
+  "statsAll": {
+    "competitive": [
+      {
+        "seasonId": 4,
+        "modeId": 4,
+        "characterId": 101,
+        "play": 1,
+        "win": 0,
+        "mvp": 1
+      },
+      {
+        "seasonId": 4,
+        "modeId": 4,
+        "characterId": 112,
+        "play": 2,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 4,
+        "modeId": 4,
+        "characterId": 113,
+        "play": 10,
+        "win": 4,
+        "mvp": 0
+      },
+      {
+        "seasonId": 4,
+        "modeId": 4,
+        "characterId": 128,
+        "play": 2,
+        "win": 0,
+        "mvp": 0
+      },
+      {
+        "seasonId": 4,
+        "modeId": 4,
+        "characterId": 130,
+        "play": 10,
+        "win": 5,
+        "mvp": 1
+      }
+    ],
+    "mode": [
+      {
+        "modeId": 3,
+        "characterId": 101,
+        "play": 11,
+        "win": 4,
+        "mvp": 4,
+        "kill": 17,
+        "death": 21
+      },
+      {
+        "modeId": 3,
+        "characterId": 112,
+        "play": 3,
+        "win": 1,
+        "mvp": 1,
+        "kill": 4,
+        "death": 7
+      },
+      {
+        "modeId": 3,
+        "characterId": 113,
+        "play": 9,
+        "win": 3,
+        "mvp": 3,
+        "kill": 11,
+        "death": 20
+      },
+      {
+        "modeId": 4,
+        "characterId": 128,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 1,
+        "death": 0
+      },
+      {
+        "modeId": 9,
+        "characterId": 124,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 1,
+        "death": 1
+      },
+      {
+        "modeId": 9,
+        "characterId": 130,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 0,
+        "death": 1
+      },
+      {
+        "modeId": 17,
+        "characterId": 101,
+        "play": 13,
+        "win": 6,
+        "mvp": 0,
+        "kill": 22,
+        "death": 19
+      },
+      {
+        "modeId": 17,
+        "characterId": 105,
+        "play": 24,
+        "win": 10,
+        "mvp": 9,
+        "kill": 45,
+        "death": 50
+      },
+      {
+        "modeId": 17,
+        "characterId": 112,
+        "play": 20,
+        "win": 14,
+        "mvp": 5,
+        "kill": 29,
+        "death": 33
+      },
+      {
+        "modeId": 17,
+        "characterId": 113,
+        "play": 42,
+        "win": 22,
+        "mvp": 11,
+        "kill": 79,
+        "death": 76
+      },
+      {
+        "modeId": 17,
+        "characterId": 118,
+        "play": 25,
+        "win": 10,
+        "mvp": 7,
+        "kill": 36,
+        "death": 43
+      },
+      {
+        "modeId": 17,
+        "characterId": 124,
+        "play": 20,
+        "win": 11,
+        "mvp": 8,
+        "kill": 38,
+        "death": 27
+      },
+      {
+        "modeId": 17,
+        "characterId": 128,
+        "play": 14,
+        "win": 9,
+        "mvp": 1,
+        "kill": 20,
+        "death": 19
+      },
+      {
+        "modeId": 17,
+        "characterId": 130,
+        "play": 23,
+        "win": 11,
+        "mvp": 6,
+        "kill": 33,
+        "death": 29
+      },
+      {
+        "modeId": 18,
+        "characterId": 105,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 1,
+        "death": 0
+      },
+      {
+        "modeId": 18,
+        "characterId": 112,
+        "play": 7,
+        "win": 6,
+        "mvp": 2,
+        "kill": 10,
+        "death": 12
+      },
+      {
+        "modeId": 18,
+        "characterId": 124,
+        "play": 4,
+        "win": 3,
+        "mvp": 2,
+        "kill": 7,
+        "death": 3
+      },
+      {
+        "modeId": 18,
+        "characterId": 128,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 1,
+        "death": 3
+      }
+    ]
+  },
+  "name_history": [
+    {
+      "name": "LX玄KINGSAMA",
+      "first_seen_at": "2026-07-21T17:07:24.735Z",
+      "last_seen_at": "2026-07-21T17:07:24.735Z"
+    }
+  ]
+}
