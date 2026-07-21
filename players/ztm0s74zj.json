@@ -1,0 +1,192 @@
+{
+  "schema_version": 2,
+  "saved_at": "2026-07-21T17:10:16.595Z",
+  "source": {
+    "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
+    "cache": "",
+    "cache_date": ""
+  },
+  "player": {
+    "user_uid": "ztm0s74zj",
+    "name": "ASMメRose",
+    "level": 84,
+    "trophy": 0,
+    "highestTrophy": 0,
+    "fame": 0,
+    "iconId": 410201,
+    "frameId": 0,
+    "clan_name": null,
+    "updatedAt": "2022-07-05T04:34:27.498Z"
+  },
+  "rankDetails": [
+    {
+      "user_uid": "ztm0s74zj",
+      "seasonId": 1,
+      "modeId": 4,
+      "rankPoint": 550,
+      "maxRankPoint": 550,
+      "tier": "SILVER_1",
+      "tierScore": 50,
+      "maxTier": "SILVER_1",
+      "maxTierScore": 50,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 14
+    }
+  ],
+  "statsAll": {
+    "competitive": [
+      {
+        "seasonId": 1,
+        "modeId": 4,
+        "characterId": 112,
+        "play": 5,
+        "win": 4,
+        "mvp": 1
+      },
+      {
+        "seasonId": 1,
+        "modeId": 4,
+        "characterId": 115,
+        "play": 9,
+        "win": 7,
+        "mvp": 7
+      }
+    ],
+    "mode": [
+      {
+        "modeId": 3,
+        "characterId": 104,
+        "play": 29,
+        "win": 29,
+        "mvp": 0,
+        "kill": 83,
+        "death": 18
+      },
+      {
+        "modeId": 3,
+        "characterId": 112,
+        "play": 38,
+        "win": 31,
+        "mvp": 0,
+        "kill": 99,
+        "death": 42
+      },
+      {
+        "modeId": 3,
+        "characterId": 115,
+        "play": 10,
+        "win": 8,
+        "mvp": 0,
+        "kill": 25,
+        "death": 11
+      },
+      {
+        "modeId": 4,
+        "characterId": 101,
+        "play": 4,
+        "win": 2,
+        "mvp": 1,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 102,
+        "play": 240,
+        "win": 172,
+        "mvp": 124,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 104,
+        "play": 82,
+        "win": 62,
+        "mvp": 23,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 106,
+        "play": 165,
+        "win": 118,
+        "mvp": 79,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 109,
+        "play": 18,
+        "win": 12,
+        "mvp": 5,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 110,
+        "play": 77,
+        "win": 53,
+        "mvp": 53,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 112,
+        "play": 87,
+        "win": 64,
+        "mvp": 49,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 115,
+        "play": 129,
+        "win": 97,
+        "mvp": 64,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 116,
+        "play": 74,
+        "win": 57,
+        "mvp": 53,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 120,
+        "play": 56,
+        "win": 42,
+        "mvp": 34,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 122,
+        "play": 44,
+        "win": 31,
+        "mvp": 28,
+        "kill": 0,
+        "death": 0
+      }
+    ]
+  },
+  "name_history": [
+    {
+      "name": "ASMメRose",
+      "first_seen_at": "2026-07-21T17:10:16.595Z",
+      "last_seen_at": "2026-07-21T17:10:16.595Z"
+    }
+  ]
+}
