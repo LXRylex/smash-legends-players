@@ -1,0 +1,88 @@
+{
+  "schema_version": 2,
+  "saved_at": "2026-07-22T11:23:21.157Z",
+  "source": {
+    "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
+    "cache": "",
+    "cache_date": ""
+  },
+  "player": {
+    "user_uid": "eah9khvhm",
+    "name": "Smash",
+    "level": 16,
+    "trophy": 986,
+    "highestTrophy": 986,
+    "fame": 0,
+    "iconId": 400003,
+    "frameId": 0,
+    "clan_name": null,
+    "updatedAt": "2024-05-07T18:53:28.000Z"
+  },
+  "rankDetails": [],
+  "statsAll": {
+    "competitive": [],
+    "mode": [
+      {
+        "modeId": 3,
+        "characterId": 101,
+        "play": 6,
+        "win": 4,
+        "mvp": 4,
+        "kill": 14,
+        "death": 9
+      },
+      {
+        "modeId": 3,
+        "characterId": 108,
+        "play": 48,
+        "win": 29,
+        "mvp": 29,
+        "kill": 103,
+        "death": 84
+      },
+      {
+        "modeId": 3,
+        "characterId": 123,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 3,
+        "death": 1
+      },
+      {
+        "modeId": 8,
+        "characterId": 108,
+        "play": 2,
+        "win": 1,
+        "mvp": 1,
+        "kill": 5,
+        "death": 1
+      },
+      {
+        "modeId": 21,
+        "characterId": 108,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 3,
+        "death": 0
+      },
+      {
+        "modeId": 21,
+        "characterId": 123,
+        "play": 2,
+        "win": 1,
+        "mvp": 1,
+        "kill": 4,
+        "death": 1
+      }
+    ]
+  },
+  "name_history": [
+    {
+      "name": "Smash",
+      "first_seen_at": "2026-07-22T11:23:21.157Z",
+      "last_seen_at": "2026-07-22T11:23:21.157Z"
+    }
+  ]
+}
