@@ -1,0 +1,259 @@
+{
+  "schema_version": 2,
+  "saved_at": "2026-07-22T11:36:04.903Z",
+  "source": {
+    "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
+    "cache": "",
+    "cache_date": ""
+  },
+  "player": {
+    "user_uid": "n0zzdp8rs",
+    "name": "Marvelcus",
+    "level": 23,
+    "trophy": 2842,
+    "highestTrophy": 2875,
+    "fame": 0,
+    "iconId": 400513,
+    "frameId": 0,
+    "clan_name": null,
+    "updatedAt": "2024-07-02T21:38:10.000Z"
+  },
+  "rankDetails": [],
+  "statsAll": {
+    "competitive": [],
+    "mode": [
+      {
+        "modeId": 1,
+        "characterId": 104,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 14,
+        "death": 2
+      },
+      {
+        "modeId": 1,
+        "characterId": 138,
+        "play": 6,
+        "win": 5,
+        "mvp": 3,
+        "kill": 32,
+        "death": 11
+      },
+      {
+        "modeId": 3,
+        "characterId": 101,
+        "play": 3,
+        "win": 3,
+        "mvp": 3,
+        "kill": 9,
+        "death": 0
+      },
+      {
+        "modeId": 3,
+        "characterId": 108,
+        "play": 4,
+        "win": 4,
+        "mvp": 4,
+        "kill": 12,
+        "death": 1
+      },
+      {
+        "modeId": 4,
+        "characterId": 104,
+        "play": 4,
+        "win": 1,
+        "mvp": 1,
+        "kill": 11,
+        "death": 14
+      },
+      {
+        "modeId": 4,
+        "characterId": 117,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 15,
+        "death": 2
+      },
+      {
+        "modeId": 4,
+        "characterId": 127,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 2,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 132,
+        "play": 20,
+        "win": 14,
+        "mvp": 8,
+        "kill": 46,
+        "death": 42
+      },
+      {
+        "modeId": 4,
+        "characterId": 138,
+        "play": 12,
+        "win": 8,
+        "mvp": 7,
+        "kill": 55,
+        "death": 24
+      },
+      {
+        "modeId": 8,
+        "characterId": 101,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 9,
+        "death": 0
+      },
+      {
+        "modeId": 8,
+        "characterId": 104,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 0,
+        "death": 1
+      },
+      {
+        "modeId": 8,
+        "characterId": 106,
+        "play": 3,
+        "win": 1,
+        "mvp": 1,
+        "kill": 6,
+        "death": 2
+      },
+      {
+        "modeId": 8,
+        "characterId": 114,
+        "play": 3,
+        "win": 2,
+        "mvp": 2,
+        "kill": 13,
+        "death": 1
+      },
+      {
+        "modeId": 8,
+        "characterId": 123,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 5,
+        "death": 0
+      },
+      {
+        "modeId": 8,
+        "characterId": 127,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 0,
+        "death": 1
+      },
+      {
+        "modeId": 15,
+        "characterId": 101,
+        "play": 5,
+        "win": 5,
+        "mvp": 3,
+        "kill": 23,
+        "death": 2
+      },
+      {
+        "modeId": 15,
+        "characterId": 104,
+        "play": 1,
+        "win": 0,
+        "mvp": 1,
+        "kill": 1,
+        "death": 3
+      },
+      {
+        "modeId": 15,
+        "characterId": 123,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 7,
+        "death": 0
+      },
+      {
+        "modeId": 20,
+        "characterId": 103,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 4,
+        "death": 1
+      },
+      {
+        "modeId": 20,
+        "characterId": 138,
+        "play": 5,
+        "win": 4,
+        "mvp": 4,
+        "kill": 22,
+        "death": 5
+      },
+      {
+        "modeId": 21,
+        "characterId": 103,
+        "play": 4,
+        "win": 3,
+        "mvp": 3,
+        "kill": 17,
+        "death": 1
+      },
+      {
+        "modeId": 21,
+        "characterId": 104,
+        "play": 9,
+        "win": 2,
+        "mvp": 2,
+        "kill": 15,
+        "death": 7
+      },
+      {
+        "modeId": 21,
+        "characterId": 117,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 7,
+        "death": 0
+      },
+      {
+        "modeId": 21,
+        "characterId": 127,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 7,
+        "death": 0
+      },
+      {
+        "modeId": 21,
+        "characterId": 138,
+        "play": 9,
+        "win": 6,
+        "mvp": 6,
+        "kill": 32,
+        "death": 3
+      }
+    ]
+  },
+  "name_history": [
+    {
+      "name": "Marvelcus",
+      "first_seen_at": "2026-07-22T11:36:04.903Z",
+      "last_seen_at": "2026-07-22T11:36:04.903Z"
+    }
+  ]
+}
