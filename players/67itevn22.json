@@ -1,0 +1,3110 @@
+{
+  "schema_version": 2,
+  "saved_at": "2026-07-22T20:44:06.746Z",
+  "source": {
+    "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
+    "cache": "",
+    "cache_date": ""
+  },
+  "player": {
+    "user_uid": "67itevn22",
+    "name": "IDKWhyImHere",
+    "level": 172,
+    "trophy": 37358,
+    "highestTrophy": 37411,
+    "fame": 31665,
+    "iconId": 402037,
+    "frameId": 1000109,
+    "clan_name": "TheSleepyFox",
+    "updatedAt": "2026-07-19T22:51:11.000Z"
+  },
+  "rankDetails": [
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 1,
+      "modeId": 4,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 6,
+      "totalPlacement": 6,
+      "gameCount": 0
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 14,
+      "modeId": 4,
+      "rankPoint": 1095,
+      "maxRankPoint": 1095,
+      "tier": "PLATINUM_2",
+      "tierScore": 95,
+      "maxTier": "PLATINUM_2",
+      "maxTierScore": 95,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 113
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 15,
+      "modeId": 3,
+      "rankPoint": 650,
+      "maxRankPoint": 688,
+      "tier": "GOLD_3",
+      "tierScore": 50,
+      "maxTier": "GOLD_3",
+      "maxTierScore": 88,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 12
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 15,
+      "modeId": 4,
+      "rankPoint": 967,
+      "maxRankPoint": 967,
+      "tier": "PLATINUM_3",
+      "tierScore": 67,
+      "maxTier": "PLATINUM_3",
+      "maxTierScore": 67,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 35
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 16,
+      "modeId": 3,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 5,
+      "totalPlacement": 6,
+      "gameCount": 1
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 16,
+      "modeId": 4,
+      "rankPoint": 840,
+      "maxRankPoint": 892,
+      "tier": "GOLD_1",
+      "tierScore": 40,
+      "maxTier": "GOLD_1",
+      "maxTierScore": 92,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 18
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 17,
+      "modeId": 3,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 6,
+      "totalPlacement": 6,
+      "gameCount": 0
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 17,
+      "modeId": 4,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 6,
+      "totalPlacement": 6,
+      "gameCount": 0
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 24,
+      "modeId": 4,
+      "rankPoint": 640,
+      "maxRankPoint": 709,
+      "tier": "GOLD_3",
+      "tierScore": 40,
+      "maxTier": "GOLD_2",
+      "maxTierScore": 9,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 8
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 25,
+      "modeId": 4,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 1,
+      "totalPlacement": 6,
+      "gameCount": 5
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 26,
+      "modeId": 4,
+      "rankPoint": 756,
+      "maxRankPoint": 837,
+      "tier": "GOLD_2",
+      "tierScore": 56,
+      "maxTier": "GOLD_1",
+      "maxTierScore": 37,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 43
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 27,
+      "modeId": 4,
+      "rankPoint": 704,
+      "maxRankPoint": 725,
+      "tier": "GOLD_2",
+      "tierScore": 4,
+      "maxTier": "GOLD_2",
+      "maxTierScore": 25,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 23
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 28,
+      "modeId": 4,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 6,
+      "totalPlacement": 6,
+      "gameCount": 0
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 29,
+      "modeId": 4,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 4,
+      "totalPlacement": 6,
+      "gameCount": 2
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 30,
+      "modeId": 4,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 6,
+      "totalPlacement": 6,
+      "gameCount": 0
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 31,
+      "modeId": 4,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 3,
+      "totalPlacement": 6,
+      "gameCount": 3
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 32,
+      "modeId": 4,
+      "rankPoint": 672,
+      "maxRankPoint": 683,
+      "tier": "GOLD_3",
+      "tierScore": 72,
+      "maxTier": "GOLD_3",
+      "maxTierScore": 83,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 10
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 33,
+      "modeId": 4,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 6,
+      "totalPlacement": 6,
+      "gameCount": 0
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 35,
+      "modeId": 4,
+      "rankPoint": 594,
+      "maxRankPoint": 594,
+      "tier": "SILVER_1",
+      "tierScore": 94,
+      "maxTier": "SILVER_1",
+      "maxTierScore": 94,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 8
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 36,
+      "modeId": 4,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 6,
+      "totalPlacement": 6,
+      "gameCount": 0
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 38,
+      "modeId": 4,
+      "rankPoint": 727,
+      "maxRankPoint": 727,
+      "tier": "GOLD_2",
+      "tierScore": 27,
+      "maxTier": "GOLD_2",
+      "maxTierScore": 27,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 6
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 39,
+      "modeId": 4,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 6,
+      "totalPlacement": 6,
+      "gameCount": 0
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 41,
+      "modeId": 99,
+      "rankPoint": 660,
+      "maxRankPoint": 696,
+      "tier": "GOLD_3",
+      "tierScore": 60,
+      "maxTier": "GOLD_3",
+      "maxTierScore": 96,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 12
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 42,
+      "modeId": 99,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 6,
+      "totalPlacement": 6,
+      "gameCount": 0
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 45,
+      "modeId": 99,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 2,
+      "totalPlacement": 6,
+      "gameCount": 4
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 46,
+      "modeId": 99,
+      "rankPoint": 701,
+      "maxRankPoint": 732,
+      "tier": "GOLD_2",
+      "tierScore": 1,
+      "maxTier": "GOLD_2",
+      "maxTierScore": 32,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 15
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 47,
+      "modeId": 99,
+      "rankPoint": 705,
+      "maxRankPoint": 727,
+      "tier": "GOLD_2",
+      "tierScore": 5,
+      "maxTier": "GOLD_2",
+      "maxTierScore": 27,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 17
+    },
+    {
+      "user_uid": "67itevn22",
+      "seasonId": 48,
+      "modeId": 99,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 6,
+      "totalPlacement": 6,
+      "gameCount": 0
+    }
+  ],
+  "statsAll": {
+    "competitive": [
+      {
+        "seasonId": 14,
+        "modeId": 4,
+        "characterId": 103,
+        "play": 1,
+        "win": 0,
+        "mvp": 0
+      },
+      {
+        "seasonId": 14,
+        "modeId": 4,
+        "characterId": 106,
+        "play": 71,
+        "win": 42,
+        "mvp": 44
+      },
+      {
+        "seasonId": 14,
+        "modeId": 4,
+        "characterId": 108,
+        "play": 1,
+        "win": 0,
+        "mvp": 0
+      },
+      {
+        "seasonId": 14,
+        "modeId": 4,
+        "characterId": 116,
+        "play": 7,
+        "win": 1,
+        "mvp": 2
+      },
+      {
+        "seasonId": 14,
+        "modeId": 4,
+        "characterId": 122,
+        "play": 7,
+        "win": 4,
+        "mvp": 3
+      },
+      {
+        "seasonId": 14,
+        "modeId": 4,
+        "characterId": 124,
+        "play": 1,
+        "win": 0,
+        "mvp": 0
+      },
+      {
+        "seasonId": 14,
+        "modeId": 4,
+        "characterId": 130,
+        "play": 7,
+        "win": 5,
+        "mvp": 3
+      },
+      {
+        "seasonId": 14,
+        "modeId": 4,
+        "characterId": 135,
+        "play": 18,
+        "win": 6,
+        "mvp": 14
+      },
+      {
+        "seasonId": 15,
+        "modeId": 3,
+        "characterId": 106,
+        "play": 12,
+        "win": 8,
+        "mvp": 8
+      },
+      {
+        "seasonId": 15,
+        "modeId": 4,
+        "characterId": 106,
+        "play": 32,
+        "win": 17,
+        "mvp": 12
+      },
+      {
+        "seasonId": 15,
+        "modeId": 4,
+        "characterId": 122,
+        "play": 1,
+        "win": 0,
+        "mvp": 0
+      },
+      {
+        "seasonId": 15,
+        "modeId": 4,
+        "characterId": 130,
+        "play": 1,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 15,
+        "modeId": 4,
+        "characterId": 135,
+        "play": 1,
+        "win": 0,
+        "mvp": 1
+      },
+      {
+        "seasonId": 16,
+        "modeId": 3,
+        "characterId": 106,
+        "play": 1,
+        "win": 1,
+        "mvp": 1
+      },
+      {
+        "seasonId": 16,
+        "modeId": 4,
+        "characterId": 106,
+        "play": 17,
+        "win": 9,
+        "mvp": 7
+      },
+      {
+        "seasonId": 16,
+        "modeId": 4,
+        "characterId": 136,
+        "play": 1,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 24,
+        "modeId": 4,
+        "characterId": 106,
+        "play": 8,
+        "win": 5,
+        "mvp": 3
+      },
+      {
+        "seasonId": 25,
+        "modeId": 4,
+        "characterId": 106,
+        "play": 5,
+        "win": 4,
+        "mvp": 2
+      },
+      {
+        "seasonId": 26,
+        "modeId": 4,
+        "characterId": 106,
+        "play": 26,
+        "win": 15,
+        "mvp": 12
+      },
+      {
+        "seasonId": 26,
+        "modeId": 4,
+        "characterId": 108,
+        "play": 10,
+        "win": 7,
+        "mvp": 6
+      },
+      {
+        "seasonId": 26,
+        "modeId": 4,
+        "characterId": 118,
+        "play": 4,
+        "win": 2,
+        "mvp": 1
+      },
+      {
+        "seasonId": 26,
+        "modeId": 4,
+        "characterId": 122,
+        "play": 2,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 26,
+        "modeId": 4,
+        "characterId": 139,
+        "play": 1,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 27,
+        "modeId": 4,
+        "characterId": 103,
+        "play": 1,
+        "win": 0,
+        "mvp": 0
+      },
+      {
+        "seasonId": 27,
+        "modeId": 4,
+        "characterId": 106,
+        "play": 15,
+        "win": 11,
+        "mvp": 6
+      },
+      {
+        "seasonId": 27,
+        "modeId": 4,
+        "characterId": 108,
+        "play": 1,
+        "win": 0,
+        "mvp": 1
+      },
+      {
+        "seasonId": 27,
+        "modeId": 4,
+        "characterId": 114,
+        "play": 1,
+        "win": 0,
+        "mvp": 0
+      },
+      {
+        "seasonId": 27,
+        "modeId": 4,
+        "characterId": 118,
+        "play": 1,
+        "win": 0,
+        "mvp": 0
+      },
+      {
+        "seasonId": 27,
+        "modeId": 4,
+        "characterId": 122,
+        "play": 2,
+        "win": 2,
+        "mvp": 1
+      },
+      {
+        "seasonId": 27,
+        "modeId": 4,
+        "characterId": 139,
+        "play": 2,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 29,
+        "modeId": 4,
+        "characterId": 106,
+        "play": 1,
+        "win": 1,
+        "mvp": 1
+      },
+      {
+        "seasonId": 29,
+        "modeId": 4,
+        "characterId": 118,
+        "play": 1,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 31,
+        "modeId": 4,
+        "characterId": 106,
+        "play": 3,
+        "win": 2,
+        "mvp": 1
+      },
+      {
+        "seasonId": 32,
+        "modeId": 4,
+        "characterId": 106,
+        "play": 9,
+        "win": 6,
+        "mvp": 6
+      },
+      {
+        "seasonId": 32,
+        "modeId": 4,
+        "characterId": 114,
+        "play": 1,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 35,
+        "modeId": 4,
+        "characterId": 114,
+        "play": 1,
+        "win": 0,
+        "mvp": 0
+      },
+      {
+        "seasonId": 35,
+        "modeId": 4,
+        "characterId": 131,
+        "play": 7,
+        "win": 4,
+        "mvp": 2
+      },
+      {
+        "seasonId": 38,
+        "modeId": 4,
+        "characterId": 144,
+        "play": 6,
+        "win": 5,
+        "mvp": 4
+      },
+      {
+        "seasonId": 41,
+        "modeId": 1,
+        "characterId": 108,
+        "play": 4,
+        "win": 4,
+        "mvp": 3
+      },
+      {
+        "seasonId": 41,
+        "modeId": 1,
+        "characterId": 131,
+        "play": 1,
+        "win": 0,
+        "mvp": 1
+      },
+      {
+        "seasonId": 41,
+        "modeId": 4,
+        "characterId": 108,
+        "play": 1,
+        "win": 0,
+        "mvp": 0
+      },
+      {
+        "seasonId": 41,
+        "modeId": 4,
+        "characterId": 131,
+        "play": 1,
+        "win": 1,
+        "mvp": 1
+      },
+      {
+        "seasonId": 41,
+        "modeId": 17,
+        "characterId": 106,
+        "play": 4,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 41,
+        "modeId": 17,
+        "characterId": 108,
+        "play": 1,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 41,
+        "modeId": 99,
+        "characterId": 106,
+        "play": 4,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 41,
+        "modeId": 99,
+        "characterId": 108,
+        "play": 6,
+        "win": 5,
+        "mvp": 3
+      },
+      {
+        "seasonId": 41,
+        "modeId": 99,
+        "characterId": 131,
+        "play": 2,
+        "win": 1,
+        "mvp": 2
+      },
+      {
+        "seasonId": 45,
+        "modeId": 1,
+        "characterId": 106,
+        "play": 1,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 45,
+        "modeId": 17,
+        "characterId": 106,
+        "play": 3,
+        "win": 3,
+        "mvp": 0
+      },
+      {
+        "seasonId": 45,
+        "modeId": 99,
+        "characterId": 106,
+        "play": 4,
+        "win": 4,
+        "mvp": 0
+      },
+      {
+        "seasonId": 46,
+        "modeId": 4,
+        "characterId": 106,
+        "play": 6,
+        "win": 3,
+        "mvp": 4
+      },
+      {
+        "seasonId": 46,
+        "modeId": 17,
+        "characterId": 106,
+        "play": 9,
+        "win": 7,
+        "mvp": 3
+      },
+      {
+        "seasonId": 46,
+        "modeId": 99,
+        "characterId": 106,
+        "play": 15,
+        "win": 10,
+        "mvp": 7
+      },
+      {
+        "seasonId": 47,
+        "modeId": 4,
+        "characterId": 106,
+        "play": 5,
+        "win": 3,
+        "mvp": 1
+      },
+      {
+        "seasonId": 47,
+        "modeId": 4,
+        "characterId": 121,
+        "play": 1,
+        "win": 0,
+        "mvp": 0
+      },
+      {
+        "seasonId": 47,
+        "modeId": 4,
+        "characterId": 131,
+        "play": 1,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 47,
+        "modeId": 4,
+        "characterId": 134,
+        "play": 1,
+        "win": 0,
+        "mvp": 1
+      },
+      {
+        "seasonId": 47,
+        "modeId": 17,
+        "characterId": 106,
+        "play": 8,
+        "win": 6,
+        "mvp": 2
+      },
+      {
+        "seasonId": 47,
+        "modeId": 17,
+        "characterId": 134,
+        "play": 1,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 47,
+        "modeId": 99,
+        "characterId": 106,
+        "play": 13,
+        "win": 9,
+        "mvp": 3
+      },
+      {
+        "seasonId": 47,
+        "modeId": 99,
+        "characterId": 121,
+        "play": 1,
+        "win": 0,
+        "mvp": 0
+      },
+      {
+        "seasonId": 47,
+        "modeId": 99,
+        "characterId": 131,
+        "play": 1,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 47,
+        "modeId": 99,
+        "characterId": 134,
+        "play": 2,
+        "win": 1,
+        "mvp": 1
+      }
+    ],
+    "mode": [
+      {
+        "modeId": 1,
+        "characterId": 101,
+        "play": 2,
+        "win": 2,
+        "mvp": 0,
+        "kill": 4,
+        "death": 1
+      },
+      {
+        "modeId": 1,
+        "characterId": 102,
+        "play": 5,
+        "win": 5,
+        "mvp": 1,
+        "kill": 9,
+        "death": 7
+      },
+      {
+        "modeId": 1,
+        "characterId": 103,
+        "play": 2,
+        "win": 1,
+        "mvp": 0,
+        "kill": 7,
+        "death": 6
+      },
+      {
+        "modeId": 1,
+        "characterId": 104,
+        "play": 2,
+        "win": 2,
+        "mvp": 0,
+        "kill": 5,
+        "death": 6
+      },
+      {
+        "modeId": 1,
+        "characterId": 106,
+        "play": 99,
+        "win": 90,
+        "mvp": 34,
+        "kill": 262,
+        "death": 125
+      },
+      {
+        "modeId": 1,
+        "characterId": 108,
+        "play": 56,
+        "win": 50,
+        "mvp": 33,
+        "kill": 248,
+        "death": 103
+      },
+      {
+        "modeId": 1,
+        "characterId": 110,
+        "play": 13,
+        "win": 9,
+        "mvp": 4,
+        "kill": 36,
+        "death": 28
+      },
+      {
+        "modeId": 1,
+        "characterId": 111,
+        "play": 3,
+        "win": 2,
+        "mvp": 2,
+        "kill": 10,
+        "death": 3
+      },
+      {
+        "modeId": 1,
+        "characterId": 112,
+        "play": 3,
+        "win": 2,
+        "mvp": 1,
+        "kill": 8,
+        "death": 9
+      },
+      {
+        "modeId": 1,
+        "characterId": 113,
+        "play": 4,
+        "win": 1,
+        "mvp": 1,
+        "kill": 11,
+        "death": 11
+      },
+      {
+        "modeId": 1,
+        "characterId": 115,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 2,
+        "death": 2
+      },
+      {
+        "modeId": 1,
+        "characterId": 116,
+        "play": 26,
+        "win": 23,
+        "mvp": 8,
+        "kill": 77,
+        "death": 38
+      },
+      {
+        "modeId": 1,
+        "characterId": 118,
+        "play": 42,
+        "win": 37,
+        "mvp": 19,
+        "kill": 138,
+        "death": 67
+      },
+      {
+        "modeId": 1,
+        "characterId": 121,
+        "play": 3,
+        "win": 3,
+        "mvp": 0,
+        "kill": 10,
+        "death": 2
+      },
+      {
+        "modeId": 1,
+        "characterId": 122,
+        "play": 6,
+        "win": 6,
+        "mvp": 2,
+        "kill": 15,
+        "death": 2
+      },
+      {
+        "modeId": 1,
+        "characterId": 124,
+        "play": 5,
+        "win": 2,
+        "mvp": 2,
+        "kill": 15,
+        "death": 14
+      },
+      {
+        "modeId": 1,
+        "characterId": 125,
+        "play": 30,
+        "win": 25,
+        "mvp": 9,
+        "kill": 95,
+        "death": 50
+      },
+      {
+        "modeId": 1,
+        "characterId": 127,
+        "play": 2,
+        "win": 1,
+        "mvp": 1,
+        "kill": 7,
+        "death": 5
+      },
+      {
+        "modeId": 1,
+        "characterId": 128,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 1,
+        "death": 2
+      },
+      {
+        "modeId": 1,
+        "characterId": 130,
+        "play": 6,
+        "win": 5,
+        "mvp": 3,
+        "kill": 23,
+        "death": 10
+      },
+      {
+        "modeId": 1,
+        "characterId": 131,
+        "play": 26,
+        "win": 25,
+        "mvp": 19,
+        "kill": 106,
+        "death": 20
+      },
+      {
+        "modeId": 1,
+        "characterId": 132,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 2,
+        "death": 3
+      },
+      {
+        "modeId": 1,
+        "characterId": 133,
+        "play": 2,
+        "win": 2,
+        "mvp": 0,
+        "kill": 6,
+        "death": 5
+      },
+      {
+        "modeId": 1,
+        "characterId": 135,
+        "play": 8,
+        "win": 6,
+        "mvp": 1,
+        "kill": 24,
+        "death": 18
+      },
+      {
+        "modeId": 1,
+        "characterId": 136,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 10,
+        "death": 4
+      },
+      {
+        "modeId": 1,
+        "characterId": 137,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 3,
+        "death": 1
+      },
+      {
+        "modeId": 1,
+        "characterId": 138,
+        "play": 6,
+        "win": 6,
+        "mvp": 2,
+        "kill": 23,
+        "death": 7
+      },
+      {
+        "modeId": 1,
+        "characterId": 139,
+        "play": 11,
+        "win": 7,
+        "mvp": 6,
+        "kill": 40,
+        "death": 18
+      },
+      {
+        "modeId": 1,
+        "characterId": 147,
+        "play": 1,
+        "win": 0,
+        "mvp": 1,
+        "kill": 4,
+        "death": 2
+      },
+      {
+        "modeId": 3,
+        "characterId": 101,
+        "play": 47,
+        "win": 29,
+        "mvp": 29,
+        "kill": 92,
+        "death": 71
+      },
+      {
+        "modeId": 3,
+        "characterId": 102,
+        "play": 53,
+        "win": 24,
+        "mvp": 24,
+        "kill": 87,
+        "death": 119
+      },
+      {
+        "modeId": 3,
+        "characterId": 103,
+        "play": 41,
+        "win": 28,
+        "mvp": 28,
+        "kill": 93,
+        "death": 53
+      },
+      {
+        "modeId": 3,
+        "characterId": 104,
+        "play": 43,
+        "win": 31,
+        "mvp": 31,
+        "kill": 100,
+        "death": 63
+      },
+      {
+        "modeId": 3,
+        "characterId": 105,
+        "play": 11,
+        "win": 3,
+        "mvp": 3,
+        "kill": 13,
+        "death": 30
+      },
+      {
+        "modeId": 3,
+        "characterId": 106,
+        "play": 224,
+        "win": 139,
+        "mvp": 139,
+        "kill": 465,
+        "death": 373
+      },
+      {
+        "modeId": 3,
+        "characterId": 108,
+        "play": 267,
+        "win": 175,
+        "mvp": 175,
+        "kill": 580,
+        "death": 402
+      },
+      {
+        "modeId": 3,
+        "characterId": 109,
+        "play": 3,
+        "win": 3,
+        "mvp": 3,
+        "kill": 7,
+        "death": 5
+      },
+      {
+        "modeId": 3,
+        "characterId": 110,
+        "play": 15,
+        "win": 12,
+        "mvp": 12,
+        "kill": 33,
+        "death": 19
+      },
+      {
+        "modeId": 3,
+        "characterId": 111,
+        "play": 26,
+        "win": 10,
+        "mvp": 10,
+        "kill": 36,
+        "death": 60
+      },
+      {
+        "modeId": 3,
+        "characterId": 112,
+        "play": 60,
+        "win": 32,
+        "mvp": 32,
+        "kill": 104,
+        "death": 115
+      },
+      {
+        "modeId": 3,
+        "characterId": 113,
+        "play": 30,
+        "win": 23,
+        "mvp": 23,
+        "kill": 72,
+        "death": 37
+      },
+      {
+        "modeId": 3,
+        "characterId": 114,
+        "play": 11,
+        "win": 8,
+        "mvp": 8,
+        "kill": 22,
+        "death": 13
+      },
+      {
+        "modeId": 3,
+        "characterId": 115,
+        "play": 3,
+        "win": 3,
+        "mvp": 3,
+        "kill": 9,
+        "death": 4
+      },
+      {
+        "modeId": 3,
+        "characterId": 116,
+        "play": 51,
+        "win": 20,
+        "mvp": 20,
+        "kill": 80,
+        "death": 115
+      },
+      {
+        "modeId": 3,
+        "characterId": 117,
+        "play": 30,
+        "win": 26,
+        "mvp": 26,
+        "kill": 78,
+        "death": 18
+      },
+      {
+        "modeId": 3,
+        "characterId": 118,
+        "play": 88,
+        "win": 41,
+        "mvp": 41,
+        "kill": 151,
+        "death": 181
+      },
+      {
+        "modeId": 3,
+        "characterId": 119,
+        "play": 4,
+        "win": 4,
+        "mvp": 4,
+        "kill": 11,
+        "death": 1
+      },
+      {
+        "modeId": 3,
+        "characterId": 120,
+        "play": 21,
+        "win": 17,
+        "mvp": 17,
+        "kill": 51,
+        "death": 22
+      },
+      {
+        "modeId": 3,
+        "characterId": 121,
+        "play": 21,
+        "win": 17,
+        "mvp": 17,
+        "kill": 53,
+        "death": 13
+      },
+      {
+        "modeId": 3,
+        "characterId": 122,
+        "play": 23,
+        "win": 9,
+        "mvp": 9,
+        "kill": 31,
+        "death": 43
+      },
+      {
+        "modeId": 3,
+        "characterId": 123,
+        "play": 9,
+        "win": 7,
+        "mvp": 7,
+        "kill": 22,
+        "death": 10
+      },
+      {
+        "modeId": 3,
+        "characterId": 124,
+        "play": 101,
+        "win": 62,
+        "mvp": 62,
+        "kill": 222,
+        "death": 171
+      },
+      {
+        "modeId": 3,
+        "characterId": 125,
+        "play": 2,
+        "win": 1,
+        "mvp": 1,
+        "kill": 3,
+        "death": 5
+      },
+      {
+        "modeId": 3,
+        "characterId": 126,
+        "play": 7,
+        "win": 3,
+        "mvp": 3,
+        "kill": 8,
+        "death": 15
+      },
+      {
+        "modeId": 3,
+        "characterId": 127,
+        "play": 26,
+        "win": 24,
+        "mvp": 24,
+        "kill": 74,
+        "death": 14
+      },
+      {
+        "modeId": 3,
+        "characterId": 128,
+        "play": 3,
+        "win": 3,
+        "mvp": 3,
+        "kill": 9,
+        "death": 1
+      },
+      {
+        "modeId": 3,
+        "characterId": 129,
+        "play": 4,
+        "win": 4,
+        "mvp": 4,
+        "kill": 12,
+        "death": 3
+      },
+      {
+        "modeId": 3,
+        "characterId": 130,
+        "play": 187,
+        "win": 105,
+        "mvp": 105,
+        "kill": 353,
+        "death": 342
+      },
+      {
+        "modeId": 3,
+        "characterId": 131,
+        "play": 123,
+        "win": 67,
+        "mvp": 67,
+        "kill": 245,
+        "death": 223
+      },
+      {
+        "modeId": 3,
+        "characterId": 132,
+        "play": 12,
+        "win": 9,
+        "mvp": 9,
+        "kill": 25,
+        "death": 18
+      },
+      {
+        "modeId": 3,
+        "characterId": 133,
+        "play": 58,
+        "win": 38,
+        "mvp": 38,
+        "kill": 125,
+        "death": 86
+      },
+      {
+        "modeId": 3,
+        "characterId": 134,
+        "play": 40,
+        "win": 23,
+        "mvp": 23,
+        "kill": 79,
+        "death": 70
+      },
+      {
+        "modeId": 3,
+        "characterId": 135,
+        "play": 191,
+        "win": 114,
+        "mvp": 114,
+        "kill": 410,
+        "death": 328
+      },
+      {
+        "modeId": 3,
+        "characterId": 136,
+        "play": 80,
+        "win": 47,
+        "mvp": 47,
+        "kill": 167,
+        "death": 124
+      },
+      {
+        "modeId": 3,
+        "characterId": 137,
+        "play": 13,
+        "win": 8,
+        "mvp": 8,
+        "kill": 26,
+        "death": 18
+      },
+      {
+        "modeId": 3,
+        "characterId": 138,
+        "play": 17,
+        "win": 14,
+        "mvp": 14,
+        "kill": 41,
+        "death": 18
+      },
+      {
+        "modeId": 3,
+        "characterId": 139,
+        "play": 78,
+        "win": 52,
+        "mvp": 52,
+        "kill": 174,
+        "death": 123
+      },
+      {
+        "modeId": 3,
+        "characterId": 140,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 2,
+        "death": 2
+      },
+      {
+        "modeId": 3,
+        "characterId": 143,
+        "play": 3,
+        "win": 3,
+        "mvp": 3,
+        "kill": 9,
+        "death": 4
+      },
+      {
+        "modeId": 3,
+        "characterId": 145,
+        "play": 21,
+        "win": 15,
+        "mvp": 15,
+        "kill": 50,
+        "death": 21
+      },
+      {
+        "modeId": 3,
+        "characterId": 147,
+        "play": 50,
+        "win": 44,
+        "mvp": 44,
+        "kill": 137,
+        "death": 40
+      },
+      {
+        "modeId": 3,
+        "characterId": 149,
+        "play": 12,
+        "win": 10,
+        "mvp": 10,
+        "kill": 29,
+        "death": 12
+      },
+      {
+        "modeId": 4,
+        "characterId": 101,
+        "play": 9,
+        "win": 5,
+        "mvp": 3,
+        "kill": 30,
+        "death": 27
+      },
+      {
+        "modeId": 4,
+        "characterId": 102,
+        "play": 14,
+        "win": 9,
+        "mvp": 7,
+        "kill": 39,
+        "death": 20
+      },
+      {
+        "modeId": 4,
+        "characterId": 103,
+        "play": 3,
+        "win": 2,
+        "mvp": 2,
+        "kill": 8,
+        "death": 7
+      },
+      {
+        "modeId": 4,
+        "characterId": 104,
+        "play": 25,
+        "win": 15,
+        "mvp": 16,
+        "kill": 81,
+        "death": 61
+      },
+      {
+        "modeId": 4,
+        "characterId": 105,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 4,
+        "death": 1
+      },
+      {
+        "modeId": 4,
+        "characterId": 106,
+        "play": 120,
+        "win": 87,
+        "mvp": 56,
+        "kill": 276,
+        "death": 192
+      },
+      {
+        "modeId": 4,
+        "characterId": 108,
+        "play": 39,
+        "win": 31,
+        "mvp": 18,
+        "kill": 145,
+        "death": 70
+      },
+      {
+        "modeId": 4,
+        "characterId": 110,
+        "play": 6,
+        "win": 4,
+        "mvp": 0,
+        "kill": 9,
+        "death": 20
+      },
+      {
+        "modeId": 4,
+        "characterId": 111,
+        "play": 2,
+        "win": 2,
+        "mvp": 1,
+        "kill": 4,
+        "death": 1
+      },
+      {
+        "modeId": 4,
+        "characterId": 112,
+        "play": 18,
+        "win": 12,
+        "mvp": 6,
+        "kill": 26,
+        "death": 41
+      },
+      {
+        "modeId": 4,
+        "characterId": 113,
+        "play": 7,
+        "win": 5,
+        "mvp": 4,
+        "kill": 15,
+        "death": 12
+      },
+      {
+        "modeId": 4,
+        "characterId": 114,
+        "play": 34,
+        "win": 16,
+        "mvp": 10,
+        "kill": 56,
+        "death": 68
+      },
+      {
+        "modeId": 4,
+        "characterId": 115,
+        "play": 2,
+        "win": 1,
+        "mvp": 1,
+        "kill": 8,
+        "death": 5
+      },
+      {
+        "modeId": 4,
+        "characterId": 116,
+        "play": 44,
+        "win": 23,
+        "mvp": 31,
+        "kill": 104,
+        "death": 93
+      },
+      {
+        "modeId": 4,
+        "characterId": 117,
+        "play": 3,
+        "win": 3,
+        "mvp": 1,
+        "kill": 0,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 118,
+        "play": 27,
+        "win": 21,
+        "mvp": 11,
+        "kill": 47,
+        "death": 29
+      },
+      {
+        "modeId": 4,
+        "characterId": 120,
+        "play": 14,
+        "win": 12,
+        "mvp": 6,
+        "kill": 38,
+        "death": 30
+      },
+      {
+        "modeId": 4,
+        "characterId": 121,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 4,
+        "death": 1
+      },
+      {
+        "modeId": 4,
+        "characterId": 122,
+        "play": 2,
+        "win": 1,
+        "mvp": 2,
+        "kill": 6,
+        "death": 2
+      },
+      {
+        "modeId": 4,
+        "characterId": 124,
+        "play": 21,
+        "win": 16,
+        "mvp": 7,
+        "kill": 63,
+        "death": 34
+      },
+      {
+        "modeId": 4,
+        "characterId": 125,
+        "play": 3,
+        "win": 3,
+        "mvp": 3,
+        "kill": 7,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 126,
+        "play": 12,
+        "win": 8,
+        "mvp": 6,
+        "kill": 28,
+        "death": 26
+      },
+      {
+        "modeId": 4,
+        "characterId": 127,
+        "play": 3,
+        "win": 2,
+        "mvp": 2,
+        "kill": 6,
+        "death": 6
+      },
+      {
+        "modeId": 4,
+        "characterId": 128,
+        "play": 2,
+        "win": 1,
+        "mvp": 1,
+        "kill": 4,
+        "death": 4
+      },
+      {
+        "modeId": 4,
+        "characterId": 130,
+        "play": 47,
+        "win": 29,
+        "mvp": 27,
+        "kill": 149,
+        "death": 102
+      },
+      {
+        "modeId": 4,
+        "characterId": 131,
+        "play": 35,
+        "win": 30,
+        "mvp": 20,
+        "kill": 88,
+        "death": 47
+      },
+      {
+        "modeId": 4,
+        "characterId": 133,
+        "play": 8,
+        "win": 4,
+        "mvp": 4,
+        "kill": 24,
+        "death": 26
+      },
+      {
+        "modeId": 4,
+        "characterId": 134,
+        "play": 16,
+        "win": 13,
+        "mvp": 8,
+        "kill": 47,
+        "death": 15
+      },
+      {
+        "modeId": 4,
+        "characterId": 135,
+        "play": 15,
+        "win": 7,
+        "mvp": 11,
+        "kill": 54,
+        "death": 41
+      },
+      {
+        "modeId": 4,
+        "characterId": 136,
+        "play": 5,
+        "win": 5,
+        "mvp": 0,
+        "kill": 11,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 139,
+        "play": 2,
+        "win": 2,
+        "mvp": 0,
+        "kill": 1,
+        "death": 2
+      },
+      {
+        "modeId": 4,
+        "characterId": 144,
+        "play": 10,
+        "win": 7,
+        "mvp": 1,
+        "kill": 19,
+        "death": 27
+      },
+      {
+        "modeId": 4,
+        "characterId": 145,
+        "play": 9,
+        "win": 7,
+        "mvp": 2,
+        "kill": 30,
+        "death": 15
+      },
+      {
+        "modeId": 4,
+        "characterId": 149,
+        "play": 2,
+        "win": 2,
+        "mvp": 0,
+        "kill": 8,
+        "death": 10
+      },
+      {
+        "modeId": 8,
+        "characterId": 106,
+        "play": 7,
+        "win": 3,
+        "mvp": 3,
+        "kill": 12,
+        "death": 4
+      },
+      {
+        "modeId": 8,
+        "characterId": 108,
+        "play": 12,
+        "win": 8,
+        "mvp": 8,
+        "kill": 43,
+        "death": 4
+      },
+      {
+        "modeId": 8,
+        "characterId": 116,
+        "play": 4,
+        "win": 3,
+        "mvp": 3,
+        "kill": 18,
+        "death": 1
+      },
+      {
+        "modeId": 8,
+        "characterId": 118,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 5,
+        "death": 0
+      },
+      {
+        "modeId": 8,
+        "characterId": 130,
+        "play": 5,
+        "win": 3,
+        "mvp": 3,
+        "kill": 10,
+        "death": 2
+      },
+      {
+        "modeId": 8,
+        "characterId": 131,
+        "play": 5,
+        "win": 4,
+        "mvp": 4,
+        "kill": 20,
+        "death": 1
+      },
+      {
+        "modeId": 8,
+        "characterId": 134,
+        "play": 4,
+        "win": 4,
+        "mvp": 4,
+        "kill": 17,
+        "death": 0
+      },
+      {
+        "modeId": 8,
+        "characterId": 139,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 0,
+        "death": 1
+      },
+      {
+        "modeId": 9,
+        "characterId": 106,
+        "play": 46,
+        "win": 46,
+        "mvp": 7,
+        "kill": 75,
+        "death": 38
+      },
+      {
+        "modeId": 9,
+        "characterId": 108,
+        "play": 2,
+        "win": 2,
+        "mvp": 0,
+        "kill": 1,
+        "death": 3
+      },
+      {
+        "modeId": 9,
+        "characterId": 112,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 0,
+        "death": 2
+      },
+      {
+        "modeId": 9,
+        "characterId": 113,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 1,
+        "death": 5
+      },
+      {
+        "modeId": 9,
+        "characterId": 114,
+        "play": 4,
+        "win": 4,
+        "mvp": 1,
+        "kill": 8,
+        "death": 3
+      },
+      {
+        "modeId": 9,
+        "characterId": 116,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 4,
+        "death": 1
+      },
+      {
+        "modeId": 9,
+        "characterId": 118,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 4,
+        "death": 1
+      },
+      {
+        "modeId": 9,
+        "characterId": 122,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 1,
+        "death": 1
+      },
+      {
+        "modeId": 9,
+        "characterId": 124,
+        "play": 4,
+        "win": 2,
+        "mvp": 1,
+        "kill": 8,
+        "death": 9
+      },
+      {
+        "modeId": 9,
+        "characterId": 126,
+        "play": 3,
+        "win": 2,
+        "mvp": 0,
+        "kill": 7,
+        "death": 3
+      },
+      {
+        "modeId": 9,
+        "characterId": 131,
+        "play": 21,
+        "win": 14,
+        "mvp": 10,
+        "kill": 46,
+        "death": 18
+      },
+      {
+        "modeId": 9,
+        "characterId": 132,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 8,
+        "death": 0
+      },
+      {
+        "modeId": 9,
+        "characterId": 133,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 4,
+        "death": 1
+      },
+      {
+        "modeId": 9,
+        "characterId": 134,
+        "play": 1,
+        "win": 0,
+        "mvp": 1,
+        "kill": 4,
+        "death": 3
+      },
+      {
+        "modeId": 9,
+        "characterId": 135,
+        "play": 1,
+        "win": 0,
+        "mvp": 1,
+        "kill": 3,
+        "death": 2
+      },
+      {
+        "modeId": 9,
+        "characterId": 145,
+        "play": 2,
+        "win": 0,
+        "mvp": 0,
+        "kill": 3,
+        "death": 9
+      },
+      {
+        "modeId": 14,
+        "characterId": 108,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 21,
+        "death": 4
+      },
+      {
+        "modeId": 14,
+        "characterId": 113,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 16,
+        "death": 3
+      },
+      {
+        "modeId": 14,
+        "characterId": 127,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 9,
+        "death": 1
+      },
+      {
+        "modeId": 14,
+        "characterId": 131,
+        "play": 4,
+        "win": 4,
+        "mvp": 4,
+        "kill": 41,
+        "death": 1
+      },
+      {
+        "modeId": 14,
+        "characterId": 144,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 7,
+        "death": 0
+      },
+      {
+        "modeId": 15,
+        "characterId": 101,
+        "play": 4,
+        "win": 1,
+        "mvp": 3,
+        "kill": 12,
+        "death": 10
+      },
+      {
+        "modeId": 15,
+        "characterId": 103,
+        "play": 4,
+        "win": 2,
+        "mvp": 3,
+        "kill": 16,
+        "death": 5
+      },
+      {
+        "modeId": 15,
+        "characterId": 106,
+        "play": 85,
+        "win": 57,
+        "mvp": 31,
+        "kill": 194,
+        "death": 154
+      },
+      {
+        "modeId": 15,
+        "characterId": 108,
+        "play": 76,
+        "win": 56,
+        "mvp": 40,
+        "kill": 246,
+        "death": 154
+      },
+      {
+        "modeId": 15,
+        "characterId": 110,
+        "play": 6,
+        "win": 4,
+        "mvp": 4,
+        "kill": 17,
+        "death": 11
+      },
+      {
+        "modeId": 15,
+        "characterId": 112,
+        "play": 4,
+        "win": 2,
+        "mvp": 2,
+        "kill": 11,
+        "death": 11
+      },
+      {
+        "modeId": 15,
+        "characterId": 113,
+        "play": 35,
+        "win": 24,
+        "mvp": 25,
+        "kill": 138,
+        "death": 50
+      },
+      {
+        "modeId": 15,
+        "characterId": 116,
+        "play": 3,
+        "win": 3,
+        "mvp": 1,
+        "kill": 4,
+        "death": 4
+      },
+      {
+        "modeId": 15,
+        "characterId": 118,
+        "play": 40,
+        "win": 23,
+        "mvp": 22,
+        "kill": 118,
+        "death": 85
+      },
+      {
+        "modeId": 15,
+        "characterId": 120,
+        "play": 17,
+        "win": 14,
+        "mvp": 11,
+        "kill": 71,
+        "death": 24
+      },
+      {
+        "modeId": 15,
+        "characterId": 121,
+        "play": 4,
+        "win": 2,
+        "mvp": 2,
+        "kill": 13,
+        "death": 9
+      },
+      {
+        "modeId": 15,
+        "characterId": 122,
+        "play": 5,
+        "win": 4,
+        "mvp": 5,
+        "kill": 25,
+        "death": 1
+      },
+      {
+        "modeId": 15,
+        "characterId": 123,
+        "play": 8,
+        "win": 6,
+        "mvp": 7,
+        "kill": 39,
+        "death": 9
+      },
+      {
+        "modeId": 15,
+        "characterId": 124,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 12,
+        "death": 1
+      },
+      {
+        "modeId": 15,
+        "characterId": 125,
+        "play": 3,
+        "win": 2,
+        "mvp": 2,
+        "kill": 16,
+        "death": 4
+      },
+      {
+        "modeId": 15,
+        "characterId": 127,
+        "play": 34,
+        "win": 25,
+        "mvp": 22,
+        "kill": 147,
+        "death": 49
+      },
+      {
+        "modeId": 15,
+        "characterId": 129,
+        "play": 4,
+        "win": 3,
+        "mvp": 4,
+        "kill": 20,
+        "death": 4
+      },
+      {
+        "modeId": 15,
+        "characterId": 131,
+        "play": 81,
+        "win": 58,
+        "mvp": 55,
+        "kill": 273,
+        "death": 120
+      },
+      {
+        "modeId": 15,
+        "characterId": 132,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 12,
+        "death": 1
+      },
+      {
+        "modeId": 15,
+        "characterId": 133,
+        "play": 13,
+        "win": 8,
+        "mvp": 11,
+        "kill": 37,
+        "death": 27
+      },
+      {
+        "modeId": 15,
+        "characterId": 134,
+        "play": 20,
+        "win": 17,
+        "mvp": 15,
+        "kill": 81,
+        "death": 36
+      },
+      {
+        "modeId": 15,
+        "characterId": 135,
+        "play": 3,
+        "win": 2,
+        "mvp": 2,
+        "kill": 6,
+        "death": 8
+      },
+      {
+        "modeId": 15,
+        "characterId": 138,
+        "play": 15,
+        "win": 13,
+        "mvp": 14,
+        "kill": 85,
+        "death": 14
+      },
+      {
+        "modeId": 15,
+        "characterId": 139,
+        "play": 8,
+        "win": 7,
+        "mvp": 5,
+        "kill": 30,
+        "death": 13
+      },
+      {
+        "modeId": 15,
+        "characterId": 141,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 7,
+        "death": 1
+      },
+      {
+        "modeId": 15,
+        "characterId": 144,
+        "play": 11,
+        "win": 8,
+        "mvp": 9,
+        "kill": 51,
+        "death": 13
+      },
+      {
+        "modeId": 15,
+        "characterId": 145,
+        "play": 8,
+        "win": 8,
+        "mvp": 8,
+        "kill": 39,
+        "death": 3
+      },
+      {
+        "modeId": 15,
+        "characterId": 147,
+        "play": 5,
+        "win": 4,
+        "mvp": 2,
+        "kill": 18,
+        "death": 6
+      },
+      {
+        "modeId": 15,
+        "characterId": 148,
+        "play": 11,
+        "win": 10,
+        "mvp": 11,
+        "kill": 52,
+        "death": 6
+      },
+      {
+        "modeId": 15,
+        "characterId": 149,
+        "play": 8,
+        "win": 6,
+        "mvp": 8,
+        "kill": 28,
+        "death": 8
+      },
+      {
+        "modeId": 17,
+        "characterId": 101,
+        "play": 3,
+        "win": 1,
+        "mvp": 0,
+        "kill": 3,
+        "death": 15
+      },
+      {
+        "modeId": 17,
+        "characterId": 102,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 1,
+        "death": 4
+      },
+      {
+        "modeId": 17,
+        "characterId": 104,
+        "play": 8,
+        "win": 7,
+        "mvp": 2,
+        "kill": 19,
+        "death": 10
+      },
+      {
+        "modeId": 17,
+        "characterId": 106,
+        "play": 68,
+        "win": 60,
+        "mvp": 18,
+        "kill": 74,
+        "death": 49
+      },
+      {
+        "modeId": 17,
+        "characterId": 108,
+        "play": 8,
+        "win": 7,
+        "mvp": 6,
+        "kill": 44,
+        "death": 15
+      },
+      {
+        "modeId": 17,
+        "characterId": 110,
+        "play": 2,
+        "win": 1,
+        "mvp": 1,
+        "kill": 3,
+        "death": 2
+      },
+      {
+        "modeId": 17,
+        "characterId": 113,
+        "play": 5,
+        "win": 4,
+        "mvp": 1,
+        "kill": 9,
+        "death": 6
+      },
+      {
+        "modeId": 17,
+        "characterId": 117,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 5,
+        "death": 0
+      },
+      {
+        "modeId": 17,
+        "characterId": 121,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 2,
+        "death": 3
+      },
+      {
+        "modeId": 17,
+        "characterId": 122,
+        "play": 9,
+        "win": 8,
+        "mvp": 7,
+        "kill": 25,
+        "death": 2
+      },
+      {
+        "modeId": 17,
+        "characterId": 123,
+        "play": 2,
+        "win": 2,
+        "mvp": 0,
+        "kill": 8,
+        "death": 3
+      },
+      {
+        "modeId": 17,
+        "characterId": 127,
+        "play": 21,
+        "win": 14,
+        "mvp": 10,
+        "kill": 26,
+        "death": 14
+      },
+      {
+        "modeId": 17,
+        "characterId": 129,
+        "play": 3,
+        "win": 2,
+        "mvp": 2,
+        "kill": 4,
+        "death": 5
+      },
+      {
+        "modeId": 17,
+        "characterId": 130,
+        "play": 3,
+        "win": 3,
+        "mvp": 3,
+        "kill": 15,
+        "death": 0
+      },
+      {
+        "modeId": 17,
+        "characterId": 131,
+        "play": 46,
+        "win": 37,
+        "mvp": 27,
+        "kill": 100,
+        "death": 29
+      },
+      {
+        "modeId": 17,
+        "characterId": 132,
+        "play": 13,
+        "win": 11,
+        "mvp": 10,
+        "kill": 38,
+        "death": 14
+      },
+      {
+        "modeId": 17,
+        "characterId": 133,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 2,
+        "death": 1
+      },
+      {
+        "modeId": 17,
+        "characterId": 134,
+        "play": 9,
+        "win": 6,
+        "mvp": 3,
+        "kill": 18,
+        "death": 12
+      },
+      {
+        "modeId": 17,
+        "characterId": 139,
+        "play": 3,
+        "win": 2,
+        "mvp": 1,
+        "kill": 12,
+        "death": 3
+      },
+      {
+        "modeId": 17,
+        "characterId": 144,
+        "play": 8,
+        "win": 7,
+        "mvp": 3,
+        "kill": 13,
+        "death": 6
+      },
+      {
+        "modeId": 17,
+        "characterId": 145,
+        "play": 3,
+        "win": 2,
+        "mvp": 3,
+        "kill": 13,
+        "death": 3
+      },
+      {
+        "modeId": 17,
+        "characterId": 149,
+        "play": 9,
+        "win": 8,
+        "mvp": 2,
+        "kill": 13,
+        "death": 6
+      },
+      {
+        "modeId": 18,
+        "characterId": 103,
+        "play": 4,
+        "win": 3,
+        "mvp": 4,
+        "kill": 8,
+        "death": 6
+      },
+      {
+        "modeId": 18,
+        "characterId": 104,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 2,
+        "death": 3
+      },
+      {
+        "modeId": 18,
+        "characterId": 106,
+        "play": 159,
+        "win": 108,
+        "mvp": 62,
+        "kill": 183,
+        "death": 300
+      },
+      {
+        "modeId": 18,
+        "characterId": 108,
+        "play": 59,
+        "win": 39,
+        "mvp": 41,
+        "kill": 171,
+        "death": 134
+      },
+      {
+        "modeId": 18,
+        "characterId": 110,
+        "play": 5,
+        "win": 4,
+        "mvp": 3,
+        "kill": 5,
+        "death": 3
+      },
+      {
+        "modeId": 18,
+        "characterId": 113,
+        "play": 43,
+        "win": 34,
+        "mvp": 27,
+        "kill": 130,
+        "death": 56
+      },
+      {
+        "modeId": 18,
+        "characterId": 114,
+        "play": 2,
+        "win": 1,
+        "mvp": 1,
+        "kill": 1,
+        "death": 5
+      },
+      {
+        "modeId": 18,
+        "characterId": 116,
+        "play": 9,
+        "win": 7,
+        "mvp": 3,
+        "kill": 11,
+        "death": 12
+      },
+      {
+        "modeId": 18,
+        "characterId": 117,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 1,
+        "death": 7
+      },
+      {
+        "modeId": 18,
+        "characterId": 118,
+        "play": 20,
+        "win": 17,
+        "mvp": 10,
+        "kill": 33,
+        "death": 22
+      },
+      {
+        "modeId": 18,
+        "characterId": 120,
+        "play": 4,
+        "win": 2,
+        "mvp": 2,
+        "kill": 12,
+        "death": 11
+      },
+      {
+        "modeId": 18,
+        "characterId": 121,
+        "play": 10,
+        "win": 8,
+        "mvp": 7,
+        "kill": 8,
+        "death": 14
+      },
+      {
+        "modeId": 18,
+        "characterId": 122,
+        "play": 13,
+        "win": 11,
+        "mvp": 13,
+        "kill": 43,
+        "death": 4
+      },
+      {
+        "modeId": 18,
+        "characterId": 123,
+        "play": 3,
+        "win": 3,
+        "mvp": 2,
+        "kill": 6,
+        "death": 1
+      },
+      {
+        "modeId": 18,
+        "characterId": 124,
+        "play": 7,
+        "win": 3,
+        "mvp": 1,
+        "kill": 6,
+        "death": 19
+      },
+      {
+        "modeId": 18,
+        "characterId": 125,
+        "play": 2,
+        "win": 1,
+        "mvp": 2,
+        "kill": 5,
+        "death": 4
+      },
+      {
+        "modeId": 18,
+        "characterId": 127,
+        "play": 18,
+        "win": 12,
+        "mvp": 14,
+        "kill": 42,
+        "death": 27
+      },
+      {
+        "modeId": 18,
+        "characterId": 129,
+        "play": 18,
+        "win": 17,
+        "mvp": 17,
+        "kill": 40,
+        "death": 10
+      },
+      {
+        "modeId": 18,
+        "characterId": 130,
+        "play": 5,
+        "win": 1,
+        "mvp": 3,
+        "kill": 3,
+        "death": 10
+      },
+      {
+        "modeId": 18,
+        "characterId": 131,
+        "play": 107,
+        "win": 78,
+        "mvp": 85,
+        "kill": 280,
+        "death": 151
+      },
+      {
+        "modeId": 18,
+        "characterId": 132,
+        "play": 33,
+        "win": 28,
+        "mvp": 28,
+        "kill": 57,
+        "death": 33
+      },
+      {
+        "modeId": 18,
+        "characterId": 133,
+        "play": 2,
+        "win": 1,
+        "mvp": 2,
+        "kill": 4,
+        "death": 3
+      },
+      {
+        "modeId": 18,
+        "characterId": 134,
+        "play": 20,
+        "win": 14,
+        "mvp": 12,
+        "kill": 39,
+        "death": 23
+      },
+      {
+        "modeId": 18,
+        "characterId": 135,
+        "play": 2,
+        "win": 0,
+        "mvp": 2,
+        "kill": 7,
+        "death": 12
+      },
+      {
+        "modeId": 18,
+        "characterId": 136,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 0,
+        "death": 4
+      },
+      {
+        "modeId": 18,
+        "characterId": 138,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 5,
+        "death": 3
+      },
+      {
+        "modeId": 18,
+        "characterId": 139,
+        "play": 14,
+        "win": 8,
+        "mvp": 2,
+        "kill": 16,
+        "death": 38
+      },
+      {
+        "modeId": 18,
+        "characterId": 144,
+        "play": 16,
+        "win": 14,
+        "mvp": 11,
+        "kill": 16,
+        "death": 17
+      },
+      {
+        "modeId": 18,
+        "characterId": 145,
+        "play": 10,
+        "win": 4,
+        "mvp": 6,
+        "kill": 12,
+        "death": 14
+      },
+      {
+        "modeId": 18,
+        "characterId": 148,
+        "play": 9,
+        "win": 9,
+        "mvp": 9,
+        "kill": 26,
+        "death": 3
+      },
+      {
+        "modeId": 18,
+        "characterId": 149,
+        "play": 30,
+        "win": 23,
+        "mvp": 28,
+        "kill": 69,
+        "death": 21
+      },
+      {
+        "modeId": 20,
+        "characterId": 101,
+        "play": 2,
+        "win": 1,
+        "mvp": 1,
+        "kill": 8,
+        "death": 6
+      },
+      {
+        "modeId": 20,
+        "characterId": 103,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 5,
+        "death": 0
+      },
+      {
+        "modeId": 20,
+        "characterId": 106,
+        "play": 9,
+        "win": 7,
+        "mvp": 2,
+        "kill": 22,
+        "death": 15
+      },
+      {
+        "modeId": 20,
+        "characterId": 108,
+        "play": 35,
+        "win": 31,
+        "mvp": 21,
+        "kill": 159,
+        "death": 64
+      },
+      {
+        "modeId": 20,
+        "characterId": 110,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 3,
+        "death": 2
+      },
+      {
+        "modeId": 20,
+        "characterId": 114,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 7,
+        "death": 1
+      },
+      {
+        "modeId": 20,
+        "characterId": 118,
+        "play": 10,
+        "win": 9,
+        "mvp": 7,
+        "kill": 31,
+        "death": 13
+      },
+      {
+        "modeId": 20,
+        "characterId": 121,
+        "play": 13,
+        "win": 13,
+        "mvp": 5,
+        "kill": 47,
+        "death": 11
+      },
+      {
+        "modeId": 20,
+        "characterId": 124,
+        "play": 3,
+        "win": 2,
+        "mvp": 3,
+        "kill": 12,
+        "death": 6
+      },
+      {
+        "modeId": 20,
+        "characterId": 125,
+        "play": 2,
+        "win": 1,
+        "mvp": 1,
+        "kill": 12,
+        "death": 5
+      },
+      {
+        "modeId": 20,
+        "characterId": 130,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 2,
+        "death": 2
+      },
+      {
+        "modeId": 20,
+        "characterId": 136,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 2,
+        "death": 2
+      },
+      {
+        "modeId": 20,
+        "characterId": 138,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 1,
+        "death": 4
+      },
+      {
+        "modeId": 20,
+        "characterId": 139,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 6,
+        "death": 2
+      },
+      {
+        "modeId": 21,
+        "characterId": 108,
+        "play": 4,
+        "win": 1,
+        "mvp": 1,
+        "kill": 4,
+        "death": 3
+      },
+      {
+        "modeId": 21,
+        "characterId": 118,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 0,
+        "death": 1
+      },
+      {
+        "modeId": 21,
+        "characterId": 130,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 8,
+        "death": 0
+      },
+      {
+        "modeId": 29,
+        "characterId": 106,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 6,
+        "death": 1
+      },
+      {
+        "modeId": 29,
+        "characterId": 131,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 3,
+        "death": 0
+      },
+      {
+        "modeId": 32,
+        "characterId": 106,
+        "play": 7,
+        "win": 4,
+        "mvp": 6,
+        "kill": 19,
+        "death": 8
+      },
+      {
+        "modeId": 32,
+        "characterId": 113,
+        "play": 43,
+        "win": 37,
+        "mvp": 40,
+        "kill": 257,
+        "death": 55
+      },
+      {
+        "modeId": 32,
+        "characterId": 122,
+        "play": 3,
+        "win": 3,
+        "mvp": 2,
+        "kill": 7,
+        "death": 0
+      },
+      {
+        "modeId": 32,
+        "characterId": 131,
+        "play": 12,
+        "win": 11,
+        "mvp": 12,
+        "kill": 74,
+        "death": 7
+      },
+      {
+        "modeId": 32,
+        "characterId": 149,
+        "play": 3,
+        "win": 3,
+        "mvp": 1,
+        "kill": 16,
+        "death": 2
+      }
+    ]
+  },
+  "name_history": [
+    {
+      "name": "IDKWhyImHere",
+      "first_seen_at": "2026-07-22T20:44:06.746Z",
+      "last_seen_at": "2026-07-22T20:44:06.746Z"
+    }
+  ]
+}
