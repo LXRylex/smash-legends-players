@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-07-21T22:06:02.355Z",
+  "saved_at": "2026-07-22T09:06:32.747Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -16,7 +16,7 @@
     "iconId": 410902,
     "frameId": 1000001,
     "clan_name": "x1zum",
-    "updatedAt": "2026-07-21T22:04:04.000Z"
+    "updatedAt": "2026-07-22T00:30:51.000Z"
   },
   "rankDetails": [
     {
@@ -8462,7 +8462,7 @@
     {
       "name": "nisky",
       "first_seen_at": "2026-07-21T22:06:02.355Z",
-      "last_seen_at": "2026-07-21T22:06:02.355Z"
+      "last_seen_at": "2026-07-22T09:06:32.747Z"
     }
   ]
 }
