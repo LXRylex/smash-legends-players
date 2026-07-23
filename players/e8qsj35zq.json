@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-07-20T02:43:44.163Z",
+  "saved_at": "2026-07-23T21:51:30.627Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -9,14 +9,14 @@
   "player": {
     "user_uid": "e8qsj35zq",
     "name": "Alter",
-    "level": 610,
-    "trophy": 116887,
-    "highestTrophy": 116910,
-    "fame": 81315,
+    "level": 611,
+    "trophy": 116741,
+    "highestTrophy": 116936,
+    "fame": 81865,
     "iconId": 400155,
     "frameId": 1000094,
     "clan_name": "TheEgoist",
-    "updatedAt": "2026-07-19T22:10:43.000Z"
+    "updatedAt": "2026-07-23T03:04:04.000Z"
   },
   "rankDetails": [
     {
@@ -1973,11 +1973,11 @@
       {
         "modeId": 15,
         "characterId": 130,
-        "play": 9208,
-        "win": 8326,
-        "mvp": 6823,
-        "kill": 38523,
-        "death": 7776
+        "play": 9260,
+        "win": 8372,
+        "mvp": 6874,
+        "kill": 38811,
+        "death": 7818
       },
       {
         "modeId": 15,
@@ -2477,11 +2477,11 @@
       {
         "modeId": 18,
         "characterId": 130,
-        "play": 22122,
-        "win": 20166,
-        "mvp": 17856,
-        "kill": 56725,
-        "death": 12536
+        "play": 22188,
+        "win": 20225,
+        "mvp": 17921,
+        "kill": 56922,
+        "death": 12570
       },
       {
         "modeId": 18,
@@ -2777,7 +2777,7 @@
     {
       "name": "Alter",
       "first_seen_at": "2026-07-19T10:11:32.596Z",
-      "last_seen_at": "2026-07-20T02:43:44.163Z"
+      "last_seen_at": "2026-07-23T21:51:30.627Z"
     }
   ]
 }
