@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-07-19T18:23:25.700Z",
+  "saved_at": "2026-07-25T13:08:31.283Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -9,14 +9,14 @@
   "player": {
     "user_uid": "bsd8uwazg",
     "name": "fineillplayloren",
-    "level": 505,
-    "trophy": 58937,
-    "highestTrophy": 58937,
-    "fame": 91485,
+    "level": 506,
+    "trophy": 59032,
+    "highestTrophy": 59099,
+    "fame": 91515,
     "iconId": 402014,
     "frameId": 1000100,
     "clan_name": "uhuh",
-    "updatedAt": "2026-07-18T18:29:36.000Z"
+    "updatedAt": "2026-07-22T00:00:26.000Z"
   },
   "rankDetails": [
     {
@@ -4156,11 +4156,11 @@
       {
         "modeId": 15,
         "characterId": 125,
-        "play": 185,
-        "win": 134,
-        "mvp": 131,
-        "kill": 701,
-        "death": 301
+        "play": 201,
+        "win": 148,
+        "mvp": 145,
+        "kill": 776,
+        "death": 311
       },
       {
         "modeId": 15,
@@ -4966,11 +4966,11 @@
       {
         "modeId": 18,
         "characterId": 125,
-        "play": 338,
-        "win": 270,
-        "mvp": 239,
-        "kill": 990,
-        "death": 452
+        "play": 345,
+        "win": 276,
+        "mvp": 244,
+        "kill": 1005,
+        "death": 455
       },
       {
         "modeId": 18,
@@ -5029,11 +5029,11 @@
       {
         "modeId": 18,
         "characterId": 132,
-        "play": 14132,
-        "win": 12685,
-        "mvp": 10689,
-        "kill": 37993,
-        "death": 10577
+        "play": 14167,
+        "win": 12719,
+        "mvp": 10705,
+        "kill": 38079,
+        "death": 10603
       },
       {
         "modeId": 18,
@@ -5047,10 +5047,10 @@
       {
         "modeId": 18,
         "characterId": 134,
-        "play": 579,
-        "win": 495,
+        "play": 580,
+        "win": 496,
         "mvp": 369,
-        "kill": 1291,
+        "kill": 1292,
         "death": 583
       },
       {
@@ -5155,11 +5155,11 @@
       {
         "modeId": 18,
         "characterId": 146,
-        "play": 863,
-        "win": 743,
-        "mvp": 556,
-        "kill": 2105,
-        "death": 1051
+        "play": 868,
+        "win": 745,
+        "mvp": 559,
+        "kill": 2112,
+        "death": 1059
       },
       {
         "modeId": 18,
@@ -5559,7 +5559,7 @@
     {
       "name": "fineillplayloren",
       "first_seen_at": "2026-07-19T17:31:07.780Z",
-      "last_seen_at": "2026-07-19T18:23:25.700Z"
+      "last_seen_at": "2026-07-25T13:08:31.283Z"
     }
   ]
 }
