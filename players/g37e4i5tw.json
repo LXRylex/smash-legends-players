@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-07-27T09:35:05.238Z",
+  "saved_at": "2026-07-27T15:19:37.157Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -10,13 +10,13 @@
     "user_uid": "g37e4i5tw",
     "name": "Suryavarman",
     "level": 325,
-    "trophy": 38619,
+    "trophy": 38598,
     "highestTrophy": 38674,
     "fame": 26270,
     "iconId": 402022,
     "frameId": 1000085,
     "clan_name": "TheSleepyFox",
-    "updatedAt": "2026-07-27T09:28:01.000Z"
+    "updatedAt": "2026-07-27T13:12:47.000Z"
   },
   "rankDetails": [
     {
@@ -2111,11 +2111,11 @@
       {
         "modeId": 3,
         "characterId": 116,
-        "play": 4746,
-        "win": 3431,
-        "mvp": 3431,
-        "kill": 11091,
-        "death": 6705
+        "play": 4751,
+        "win": 3434,
+        "mvp": 3434,
+        "kill": 11102,
+        "death": 6714
       },
       {
         "modeId": 3,
@@ -4342,7 +4342,7 @@
     {
       "name": "Suryavarman",
       "first_seen_at": "2026-07-27T09:35:05.238Z",
-      "last_seen_at": "2026-07-27T09:35:05.238Z"
+      "last_seen_at": "2026-07-27T15:19:37.157Z"
     }
   ]
 }
