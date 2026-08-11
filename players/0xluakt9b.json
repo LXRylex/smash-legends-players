@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-08-11T22:44:42.828Z",
+  "saved_at": "2026-08-11T22:45:55.035Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -100,7 +100,7 @@
     {
       "name": "Born4Nothing",
       "first_seen_at": "2026-07-22T11:23:11.469Z",
-      "last_seen_at": "2026-08-11T22:44:42.828Z"
+      "last_seen_at": "2026-08-11T22:45:55.035Z"
     }
   ]
 }
