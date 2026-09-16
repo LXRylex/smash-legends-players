@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-08-14T12:45:02.257Z",
+  "saved_at": "2026-09-16T10:06:19.757Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -8,15 +8,15 @@
   },
   "player": {
     "user_uid": "g37e4i5tw",
-    "name": "Suryavarman",
-    "level": 326,
-    "trophy": 38762,
-    "highestTrophy": 38797,
-    "fame": 27900,
+    "name": "Emchi",
+    "level": 328,
+    "trophy": 39166,
+    "highestTrophy": 39166,
+    "fame": 32070,
     "iconId": 411601,
-    "frameId": 1000001,
+    "frameId": 1000052,
     "clan_name": null,
-    "updatedAt": "2026-08-13T15:16:56.000Z"
+    "updatedAt": "2026-09-16T10:03:58.000Z"
   },
   "rankDetails": [
     {
@@ -541,15 +541,29 @@
       "user_uid": "g37e4i5tw",
       "seasonId": 55,
       "modeId": 99,
+      "rankPoint": 686,
+      "maxRankPoint": 686,
+      "tier": "GOLD_3",
+      "tierScore": 86,
+      "maxTier": "GOLD_3",
+      "maxTierScore": 86,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 6
+    },
+    {
+      "user_uid": "g37e4i5tw",
+      "seasonId": 56,
+      "modeId": 99,
       "rankPoint": 0,
       "maxRankPoint": 0,
       "tier": "UNRANKED",
       "tierScore": 0,
       "maxTier": "UNRANKED",
       "maxTierScore": 0,
-      "remainPlacement": 6,
+      "remainPlacement": 5,
       "totalPlacement": 6,
-      "gameCount": 0
+      "gameCount": 1
     }
   ],
   "statsAll": {
@@ -1705,6 +1719,38 @@
         "play": 9,
         "win": 3,
         "mvp": 6
+      },
+      {
+        "seasonId": 55,
+        "modeId": 4,
+        "characterId": 116,
+        "play": 6,
+        "win": 6,
+        "mvp": 5
+      },
+      {
+        "seasonId": 55,
+        "modeId": 99,
+        "characterId": 116,
+        "play": 6,
+        "win": 6,
+        "mvp": 5
+      },
+      {
+        "seasonId": 56,
+        "modeId": 4,
+        "characterId": 116,
+        "play": 1,
+        "win": 0,
+        "mvp": 1
+      },
+      {
+        "seasonId": 56,
+        "modeId": 99,
+        "characterId": 116,
+        "play": 1,
+        "win": 0,
+        "mvp": 1
       }
     ],
     "mode": [
@@ -1999,29 +2045,29 @@
       {
         "modeId": 3,
         "characterId": 101,
-        "play": 89,
+        "play": 90,
         "win": 58,
         "mvp": 58,
-        "kill": 195,
-        "death": 141
-      },
-      {
-        "modeId": 3,
-        "characterId": 102,
-        "play": 112,
-        "win": 86,
-        "mvp": 86,
-        "kill": 226,
+        "kill": 197,
         "death": 144
       },
       {
         "modeId": 3,
+        "characterId": 102,
+        "play": 113,
+        "win": 86,
+        "mvp": 86,
+        "kill": 228,
+        "death": 147
+      },
+      {
+        "modeId": 3,
         "characterId": 103,
-        "play": 41,
-        "win": 29,
-        "mvp": 29,
-        "kill": 94,
-        "death": 53
+        "play": 44,
+        "win": 30,
+        "mvp": 30,
+        "kill": 100,
+        "death": 59
       },
       {
         "modeId": 3,
@@ -2044,11 +2090,11 @@
       {
         "modeId": 3,
         "characterId": 106,
-        "play": 114,
-        "win": 77,
-        "mvp": 73,
-        "kill": 239,
-        "death": 162
+        "play": 115,
+        "win": 78,
+        "mvp": 74,
+        "kill": 242,
+        "death": 163
       },
       {
         "modeId": 3,
@@ -2089,20 +2135,20 @@
       {
         "modeId": 3,
         "characterId": 112,
-        "play": 325,
+        "play": 327,
         "win": 242,
         "mvp": 242,
-        "kill": 761,
-        "death": 451
+        "kill": 763,
+        "death": 457
       },
       {
         "modeId": 3,
         "characterId": 113,
-        "play": 224,
-        "win": 154,
-        "mvp": 154,
-        "kill": 517,
-        "death": 344
+        "play": 226,
+        "win": 155,
+        "mvp": 155,
+        "kill": 520,
+        "death": 348
       },
       {
         "modeId": 3,
@@ -2125,11 +2171,11 @@
       {
         "modeId": 3,
         "characterId": 116,
-        "play": 4872,
-        "win": 3524,
-        "mvp": 3524,
-        "kill": 11393,
-        "death": 6919
+        "play": 4980,
+        "win": 3609,
+        "mvp": 3609,
+        "kill": 11661,
+        "death": 7081
       },
       {
         "modeId": 3,
@@ -2143,11 +2189,11 @@
       {
         "modeId": 3,
         "characterId": 118,
-        "play": 187,
-        "win": 121,
-        "mvp": 121,
-        "kill": 397,
-        "death": 313
+        "play": 189,
+        "win": 123,
+        "mvp": 123,
+        "kill": 403,
+        "death": 314
       },
       {
         "modeId": 3,
@@ -2179,11 +2225,11 @@
       {
         "modeId": 3,
         "characterId": 122,
-        "play": 210,
-        "win": 153,
-        "mvp": 153,
-        "kill": 468,
-        "death": 265
+        "play": 223,
+        "win": 159,
+        "mvp": 159,
+        "kill": 490,
+        "death": 289
       },
       {
         "modeId": 3,
@@ -2233,38 +2279,38 @@
       {
         "modeId": 3,
         "characterId": 128,
-        "play": 96,
+        "play": 98,
         "win": 47,
         "mvp": 47,
-        "kill": 172,
-        "death": 186
+        "kill": 175,
+        "death": 192
       },
       {
         "modeId": 3,
         "characterId": 129,
-        "play": 25,
-        "win": 21,
-        "mvp": 21,
-        "kill": 64,
-        "death": 26
+        "play": 27,
+        "win": 23,
+        "mvp": 23,
+        "kill": 70,
+        "death": 27
       },
       {
         "modeId": 3,
         "characterId": 130,
-        "play": 208,
-        "win": 138,
-        "mvp": 138,
-        "kill": 467,
-        "death": 317
+        "play": 221,
+        "win": 145,
+        "mvp": 145,
+        "kill": 491,
+        "death": 341
       },
       {
         "modeId": 3,
         "characterId": 131,
-        "play": 89,
-        "win": 48,
-        "mvp": 48,
-        "kill": 167,
-        "death": 149
+        "play": 169,
+        "win": 98,
+        "mvp": 98,
+        "kill": 334,
+        "death": 275
       },
       {
         "modeId": 3,
@@ -2278,11 +2324,11 @@
       {
         "modeId": 3,
         "characterId": 133,
-        "play": 114,
-        "win": 75,
-        "mvp": 75,
-        "kill": 239,
-        "death": 194
+        "play": 117,
+        "win": 76,
+        "mvp": 76,
+        "kill": 243,
+        "death": 202
       },
       {
         "modeId": 3,
@@ -2296,11 +2342,11 @@
       {
         "modeId": 3,
         "characterId": 135,
-        "play": 148,
-        "win": 112,
-        "mvp": 112,
-        "kill": 367,
-        "death": 206
+        "play": 159,
+        "win": 121,
+        "mvp": 121,
+        "kill": 396,
+        "death": 219
       },
       {
         "modeId": 3,
@@ -2314,11 +2360,11 @@
       {
         "modeId": 3,
         "characterId": 137,
-        "play": 13,
-        "win": 10,
-        "mvp": 10,
-        "kill": 33,
-        "death": 17
+        "play": 14,
+        "win": 11,
+        "mvp": 11,
+        "kill": 35,
+        "death": 19
       },
       {
         "modeId": 3,
@@ -2350,11 +2396,11 @@
       {
         "modeId": 3,
         "characterId": 143,
-        "play": 53,
-        "win": 45,
-        "mvp": 45,
-        "kill": 139,
-        "death": 58
+        "play": 56,
+        "win": 46,
+        "mvp": 46,
+        "kill": 145,
+        "death": 64
       },
       {
         "modeId": 3,
@@ -2368,11 +2414,11 @@
       {
         "modeId": 3,
         "characterId": 147,
-        "play": 24,
-        "win": 24,
-        "mvp": 24,
-        "kill": 70,
-        "death": 9
+        "play": 26,
+        "win": 26,
+        "mvp": 26,
+        "kill": 76,
+        "death": 11
       },
       {
         "modeId": 4,
@@ -3844,11 +3890,11 @@
       {
         "modeId": 18,
         "characterId": 116,
-        "play": 2810,
-        "win": 2609,
-        "mvp": 2452,
-        "kill": 5325,
-        "death": 2028
+        "play": 2814,
+        "win": 2613,
+        "mvp": 2455,
+        "kill": 5336,
+        "death": 2035
       },
       {
         "modeId": 18,
@@ -4357,6 +4403,11 @@
       "name": "Suryavarman",
       "first_seen_at": "2026-07-27T09:35:05.238Z",
       "last_seen_at": "2026-08-14T12:45:02.257Z"
+    },
+    {
+      "name": "Emchi",
+      "first_seen_at": "2026-09-16T10:06:19.757Z",
+      "last_seen_at": "2026-09-16T10:06:19.757Z"
     }
   ]
 }
