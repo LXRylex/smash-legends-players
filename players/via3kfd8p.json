@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-07-20T02:14:54.501Z",
+  "saved_at": "2026-09-21T18:58:53.471Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -9,14 +9,14 @@
   "player": {
     "user_uid": "via3kfd8p",
     "name": "Sepherator",
-    "level": 117,
-    "trophy": 7913,
-    "highestTrophy": 7945,
+    "level": 134,
+    "trophy": 11230,
+    "highestTrophy": 11286,
     "fame": 0,
     "iconId": 412102,
     "frameId": 1000005,
     "clan_name": "MightyWarrior",
-    "updatedAt": "2026-07-20T02:10:16.000Z"
+    "updatedAt": "2026-09-21T03:37:36.000Z"
   },
   "rankDetails": [
     {
@@ -46,6 +46,48 @@
       "remainPlacement": 6,
       "totalPlacement": 6,
       "gameCount": 0
+    },
+    {
+      "user_uid": "via3kfd8p",
+      "seasonId": 54,
+      "modeId": 99,
+      "rankPoint": 774,
+      "maxRankPoint": 839,
+      "tier": "GOLD_2",
+      "tierScore": 74,
+      "maxTier": "GOLD_1",
+      "maxTierScore": 39,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 11
+    },
+    {
+      "user_uid": "via3kfd8p",
+      "seasonId": 55,
+      "modeId": 99,
+      "rankPoint": 626,
+      "maxRankPoint": 626,
+      "tier": "GOLD_3",
+      "tierScore": 26,
+      "maxTier": "GOLD_3",
+      "maxTierScore": 26,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 6
+    },
+    {
+      "user_uid": "via3kfd8p",
+      "seasonId": 56,
+      "modeId": 99,
+      "rankPoint": 575,
+      "maxRankPoint": 698,
+      "tier": "SILVER_1",
+      "tierScore": 75,
+      "maxTier": "GOLD_3",
+      "maxTierScore": 98,
+      "remainPlacement": 0,
+      "totalPlacement": 6,
+      "gameCount": 20
     }
   ],
   "statsAll": {
@@ -97,62 +139,151 @@
         "play": 2,
         "win": 1,
         "mvp": 0
+      },
+      {
+        "seasonId": 54,
+        "modeId": 4,
+        "characterId": 105,
+        "play": 1,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 54,
+        "modeId": 4,
+        "characterId": 121,
+        "play": 10,
+        "win": 6,
+        "mvp": 4
+      },
+      {
+        "seasonId": 54,
+        "modeId": 99,
+        "characterId": 105,
+        "play": 1,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 54,
+        "modeId": 99,
+        "characterId": 121,
+        "play": 10,
+        "win": 6,
+        "mvp": 4
+      },
+      {
+        "seasonId": 55,
+        "modeId": 4,
+        "characterId": 121,
+        "play": 6,
+        "win": 3,
+        "mvp": 3
+      },
+      {
+        "seasonId": 55,
+        "modeId": 99,
+        "characterId": 121,
+        "play": 6,
+        "win": 3,
+        "mvp": 3
+      },
+      {
+        "seasonId": 56,
+        "modeId": 4,
+        "characterId": 114,
+        "play": 2,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 56,
+        "modeId": 4,
+        "characterId": 121,
+        "play": 18,
+        "win": 9,
+        "mvp": 7
+      },
+      {
+        "seasonId": 56,
+        "modeId": 99,
+        "characterId": 114,
+        "play": 2,
+        "win": 1,
+        "mvp": 0
+      },
+      {
+        "seasonId": 56,
+        "modeId": 99,
+        "characterId": 121,
+        "play": 18,
+        "win": 9,
+        "mvp": 7
       }
     ],
     "mode": [
       {
         "modeId": 3,
         "characterId": 101,
-        "play": 59,
-        "win": 35,
-        "mvp": 35,
-        "kill": 121,
-        "death": 94
+        "play": 81,
+        "win": 53,
+        "mvp": 53,
+        "kill": 172,
+        "death": 118
       },
       {
         "modeId": 3,
         "characterId": 102,
-        "play": 78,
-        "win": 48,
-        "mvp": 48,
-        "kill": 155,
-        "death": 120
+        "play": 94,
+        "win": 60,
+        "mvp": 60,
+        "kill": 197,
+        "death": 140
       },
       {
         "modeId": 3,
         "characterId": 105,
-        "play": 67,
-        "win": 52,
-        "mvp": 52,
-        "kill": 157,
-        "death": 70
+        "play": 80,
+        "win": 59,
+        "mvp": 59,
+        "kill": 181,
+        "death": 92
       },
       {
         "modeId": 3,
         "characterId": 106,
-        "play": 172,
+        "play": 174,
         "win": 106,
         "mvp": 106,
-        "kill": 326,
-        "death": 228
+        "kill": 328,
+        "death": 233
       },
       {
         "modeId": 3,
         "characterId": 108,
-        "play": 7,
-        "win": 4,
-        "mvp": 4,
-        "kill": 13,
-        "death": 13
+        "play": 28,
+        "win": 18,
+        "mvp": 18,
+        "kill": 65,
+        "death": 42
       },
       {
         "modeId": 3,
         "characterId": 114,
-        "play": 6,
-        "win": 2,
-        "mvp": 2,
-        "kill": 8,
-        "death": 14
+        "play": 80,
+        "win": 52,
+        "mvp": 52,
+        "kill": 170,
+        "death": 101
+      },
+      {
+        "modeId": 3,
+        "characterId": 118,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 3,
+        "death": 0
       },
       {
         "modeId": 3,
@@ -166,11 +297,20 @@
       {
         "modeId": 3,
         "characterId": 121,
-        "play": 1995,
-        "win": 1175,
-        "mvp": 1175,
-        "kill": 3308,
-        "death": 2721
+        "play": 2474,
+        "win": 1503,
+        "mvp": 1503,
+        "kill": 4232,
+        "death": 3252
+      },
+      {
+        "modeId": 3,
+        "characterId": 123,
+        "play": 86,
+        "win": 67,
+        "mvp": 67,
+        "kill": 199,
+        "death": 73
       },
       {
         "modeId": 3,
@@ -192,6 +332,15 @@
       },
       {
         "modeId": 3,
+        "characterId": 127,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 3,
+        "death": 1
+      },
+      {
+        "modeId": 3,
         "characterId": 129,
         "play": 80,
         "win": 57,
@@ -201,21 +350,39 @@
       },
       {
         "modeId": 3,
+        "characterId": 131,
+        "play": 7,
+        "win": 6,
+        "mvp": 6,
+        "kill": 18,
+        "death": 4
+      },
+      {
+        "modeId": 3,
         "characterId": 132,
-        "play": 11,
-        "win": 8,
-        "mvp": 8,
-        "kill": 26,
-        "death": 15
+        "play": 18,
+        "win": 14,
+        "mvp": 14,
+        "kill": 44,
+        "death": 22
       },
       {
         "modeId": 3,
         "characterId": 139,
-        "play": 6,
-        "win": 4,
-        "mvp": 4,
-        "kill": 12,
+        "play": 7,
+        "win": 5,
+        "mvp": 5,
+        "kill": 14,
         "death": 8
+      },
+      {
+        "modeId": 4,
+        "characterId": 103,
+        "play": 3,
+        "win": 3,
+        "mvp": 0,
+        "kill": 4,
+        "death": 0
       },
       {
         "modeId": 4,
@@ -234,6 +401,15 @@
         "mvp": 6,
         "kill": 17,
         "death": 5
+      },
+      {
+        "modeId": 15,
+        "characterId": 101,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 0,
+        "death": 3
       },
       {
         "modeId": 15,
@@ -265,11 +441,11 @@
       {
         "modeId": 15,
         "characterId": 121,
-        "play": 16,
-        "win": 13,
-        "mvp": 10,
-        "kill": 54,
-        "death": 16
+        "play": 30,
+        "win": 24,
+        "mvp": 21,
+        "kill": 98,
+        "death": 25
       },
       {
         "modeId": 17,
@@ -279,6 +455,24 @@
         "mvp": 1,
         "kill": 6,
         "death": 5
+      },
+      {
+        "modeId": 18,
+        "characterId": 101,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 3,
+        "death": 1
+      },
+      {
+        "modeId": 18,
+        "characterId": 103,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 0,
+        "death": 0
       },
       {
         "modeId": 18,
@@ -300,12 +494,21 @@
       },
       {
         "modeId": 32,
-        "characterId": 121,
-        "play": 2,
-        "win": 2,
+        "characterId": 101,
+        "play": 1,
+        "win": 1,
         "mvp": 1,
-        "kill": 3,
+        "kill": 12,
         "death": 1
+      },
+      {
+        "modeId": 32,
+        "characterId": 121,
+        "play": 11,
+        "win": 11,
+        "mvp": 5,
+        "kill": 19,
+        "death": 3
       }
     ]
   },
@@ -313,7 +516,7 @@
     {
       "name": "Sepherator",
       "first_seen_at": "2026-07-20T02:11:35.080Z",
-      "last_seen_at": "2026-07-20T02:14:54.501Z"
+      "last_seen_at": "2026-09-21T18:58:53.471Z"
     }
   ]
 }
