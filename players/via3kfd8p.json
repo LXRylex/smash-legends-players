@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-09-21T18:58:53.471Z",
+  "saved_at": "2026-09-22T20:32:25.414Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -9,14 +9,14 @@
   "player": {
     "user_uid": "via3kfd8p",
     "name": "Sepherator",
-    "level": 134,
+    "level": 135,
     "trophy": 11230,
     "highestTrophy": 11286,
     "fame": 0,
     "iconId": 412102,
     "frameId": 1000005,
     "clan_name": "MightyWarrior",
-    "updatedAt": "2026-09-21T03:37:36.000Z"
+    "updatedAt": "2026-09-22T05:43:31.000Z"
   },
   "rankDetails": [
     {
@@ -225,11 +225,11 @@
       {
         "modeId": 3,
         "characterId": 101,
-        "play": 81,
-        "win": 53,
-        "mvp": 53,
-        "kill": 172,
-        "death": 118
+        "play": 89,
+        "win": 56,
+        "mvp": 56,
+        "kill": 183,
+        "death": 132
       },
       {
         "modeId": 3,
@@ -297,20 +297,20 @@
       {
         "modeId": 3,
         "characterId": 121,
-        "play": 2474,
-        "win": 1503,
-        "mvp": 1503,
-        "kill": 4232,
-        "death": 3252
+        "play": 2475,
+        "win": 1504,
+        "mvp": 1504,
+        "kill": 4235,
+        "death": 3253
       },
       {
         "modeId": 3,
         "characterId": 123,
-        "play": 86,
-        "win": 67,
-        "mvp": 67,
-        "kill": 199,
-        "death": 73
+        "play": 97,
+        "win": 73,
+        "mvp": 73,
+        "kill": 215,
+        "death": 90
       },
       {
         "modeId": 3,
@@ -516,7 +516,7 @@
     {
       "name": "Sepherator",
       "first_seen_at": "2026-07-20T02:11:35.080Z",
-      "last_seen_at": "2026-09-21T18:58:53.471Z"
+      "last_seen_at": "2026-09-22T20:32:25.414Z"
     }
   ]
 }
