@@ -1,0 +1,214 @@
+{
+  "schema_version": 2,
+  "saved_at": "2026-09-22T03:13:06.766Z",
+  "source": {
+    "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
+    "cache": "",
+    "cache_date": ""
+  },
+  "player": {
+    "user_uid": "jzwvrxh6b",
+    "name": "盡人事待天命",
+    "level": 61,
+    "trophy": 6024,
+    "highestTrophy": 6124,
+    "fame": 0,
+    "iconId": 400004,
+    "frameId": 1000120,
+    "clan_name": null,
+    "updatedAt": "2026-09-22T03:10:40.000Z"
+  },
+  "rankDetails": [],
+  "statsAll": {
+    "competitive": [],
+    "mode": [
+      {
+        "modeId": 3,
+        "characterId": 101,
+        "play": 14,
+        "win": 14,
+        "mvp": 14,
+        "kill": 39,
+        "death": 2
+      },
+      {
+        "modeId": 3,
+        "characterId": 104,
+        "play": 5,
+        "win": 5,
+        "mvp": 5,
+        "kill": 15,
+        "death": 2
+      },
+      {
+        "modeId": 3,
+        "characterId": 105,
+        "play": 6,
+        "win": 5,
+        "mvp": 5,
+        "kill": 16,
+        "death": 5
+      },
+      {
+        "modeId": 3,
+        "characterId": 108,
+        "play": 6,
+        "win": 5,
+        "mvp": 5,
+        "kill": 17,
+        "death": 11
+      },
+      {
+        "modeId": 3,
+        "characterId": 110,
+        "play": 5,
+        "win": 5,
+        "mvp": 5,
+        "kill": 15,
+        "death": 1
+      },
+      {
+        "modeId": 3,
+        "characterId": 118,
+        "play": 223,
+        "win": 195,
+        "mvp": 195,
+        "kill": 613,
+        "death": 142
+      },
+      {
+        "modeId": 3,
+        "characterId": 124,
+        "play": 9,
+        "win": 9,
+        "mvp": 9,
+        "kill": 26,
+        "death": 9
+      },
+      {
+        "modeId": 3,
+        "characterId": 127,
+        "play": 10,
+        "win": 9,
+        "mvp": 9,
+        "kill": 28,
+        "death": 10
+      },
+      {
+        "modeId": 3,
+        "characterId": 128,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 3,
+        "death": 1
+      },
+      {
+        "modeId": 3,
+        "characterId": 139,
+        "play": 68,
+        "win": 57,
+        "mvp": 57,
+        "kill": 180,
+        "death": 62
+      },
+      {
+        "modeId": 3,
+        "characterId": 143,
+        "play": 259,
+        "win": 189,
+        "mvp": 189,
+        "kill": 642,
+        "death": 369
+      },
+      {
+        "modeId": 15,
+        "characterId": 110,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 6,
+        "death": 2
+      },
+      {
+        "modeId": 15,
+        "characterId": 118,
+        "play": 21,
+        "win": 21,
+        "mvp": 19,
+        "kill": 100,
+        "death": 6
+      },
+      {
+        "modeId": 15,
+        "characterId": 139,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 2,
+        "death": 4
+      },
+      {
+        "modeId": 15,
+        "characterId": 143,
+        "play": 4,
+        "win": 4,
+        "mvp": 4,
+        "kill": 24,
+        "death": 0
+      },
+      {
+        "modeId": 18,
+        "characterId": 108,
+        "play": 5,
+        "win": 5,
+        "mvp": 4,
+        "kill": 17,
+        "death": 1
+      },
+      {
+        "modeId": 18,
+        "characterId": 110,
+        "play": 4,
+        "win": 4,
+        "mvp": 3,
+        "kill": 9,
+        "death": 3
+      },
+      {
+        "modeId": 18,
+        "characterId": 118,
+        "play": 21,
+        "win": 19,
+        "mvp": 17,
+        "kill": 68,
+        "death": 9
+      },
+      {
+        "modeId": 18,
+        "characterId": 136,
+        "play": 5,
+        "win": 5,
+        "mvp": 5,
+        "kill": 20,
+        "death": 3
+      },
+      {
+        "modeId": 18,
+        "characterId": 143,
+        "play": 8,
+        "win": 8,
+        "mvp": 8,
+        "kill": 44,
+        "death": 5
+      }
+    ]
+  },
+  "name_history": [
+    {
+      "name": "盡人事待天命",
+      "first_seen_at": "2026-09-22T03:13:06.766Z",
+      "last_seen_at": "2026-09-22T03:13:06.766Z"
+    }
+  ]
+}
