@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-09-22T20:32:25.414Z",
+  "saved_at": "2026-09-23T17:06:46.305Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -10,13 +10,13 @@
     "user_uid": "via3kfd8p",
     "name": "Sepherator",
     "level": 135,
-    "trophy": 11230,
+    "trophy": 11251,
     "highestTrophy": 11286,
     "fame": 0,
     "iconId": 412102,
     "frameId": 1000005,
     "clan_name": "MightyWarrior",
-    "updatedAt": "2026-09-22T05:43:31.000Z"
+    "updatedAt": "2026-09-23T05:31:14.000Z"
   },
   "rankDetails": [
     {
@@ -79,15 +79,15 @@
       "user_uid": "via3kfd8p",
       "seasonId": 56,
       "modeId": 99,
-      "rankPoint": 575,
+      "rankPoint": 517,
       "maxRankPoint": 698,
       "tier": "SILVER_1",
-      "tierScore": 75,
+      "tierScore": 17,
       "maxTier": "GOLD_3",
       "maxTierScore": 98,
       "remainPlacement": 0,
       "totalPlacement": 6,
-      "gameCount": 20
+      "gameCount": 25
     }
   ],
   "statsAll": {
@@ -200,9 +200,9 @@
         "seasonId": 56,
         "modeId": 4,
         "characterId": 121,
-        "play": 18,
-        "win": 9,
-        "mvp": 7
+        "play": 23,
+        "win": 10,
+        "mvp": 9
       },
       {
         "seasonId": 56,
@@ -216,20 +216,20 @@
         "seasonId": 56,
         "modeId": 99,
         "characterId": 121,
-        "play": 18,
-        "win": 9,
-        "mvp": 7
+        "play": 23,
+        "win": 10,
+        "mvp": 9
       }
     ],
     "mode": [
       {
         "modeId": 3,
         "characterId": 101,
-        "play": 89,
-        "win": 56,
-        "mvp": 56,
-        "kill": 183,
-        "death": 132
+        "play": 96,
+        "win": 61,
+        "mvp": 61,
+        "kill": 199,
+        "death": 143
       },
       {
         "modeId": 3,
@@ -243,11 +243,11 @@
       {
         "modeId": 3,
         "characterId": 105,
-        "play": 80,
-        "win": 59,
-        "mvp": 59,
-        "kill": 181,
-        "death": 92
+        "play": 83,
+        "win": 60,
+        "mvp": 60,
+        "kill": 186,
+        "death": 98
       },
       {
         "modeId": 3,
@@ -297,20 +297,20 @@
       {
         "modeId": 3,
         "characterId": 121,
-        "play": 2475,
-        "win": 1504,
-        "mvp": 1504,
-        "kill": 4235,
+        "play": 2476,
+        "win": 1505,
+        "mvp": 1505,
+        "kill": 4237,
         "death": 3253
       },
       {
         "modeId": 3,
         "characterId": 123,
-        "play": 97,
-        "win": 73,
-        "mvp": 73,
-        "kill": 215,
-        "death": 90
+        "play": 103,
+        "win": 75,
+        "mvp": 75,
+        "kill": 224,
+        "death": 102
       },
       {
         "modeId": 3,
@@ -410,6 +410,15 @@
         "mvp": 0,
         "kill": 0,
         "death": 3
+      },
+      {
+        "modeId": 15,
+        "characterId": 105,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 5,
+        "death": 0
       },
       {
         "modeId": 15,
@@ -516,7 +525,7 @@
     {
       "name": "Sepherator",
       "first_seen_at": "2026-07-20T02:11:35.080Z",
-      "last_seen_at": "2026-09-22T20:32:25.414Z"
+      "last_seen_at": "2026-09-23T17:06:46.305Z"
     }
   ]
 }
