@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-09-22T03:48:17.877Z",
+  "saved_at": "2026-09-28T14:52:05.847Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -9,14 +9,14 @@
   "player": {
     "user_uid": "jzwvrxh6b",
     "name": "盡人事待天命",
-    "level": 61,
-    "trophy": 6024,
-    "highestTrophy": 6124,
+    "level": 66,
+    "trophy": 6241,
+    "highestTrophy": 6241,
     "fame": 0,
-    "iconId": 400004,
+    "iconId": 400183,
     "frameId": 1000120,
     "clan_name": null,
-    "updatedAt": "2026-09-22T03:10:40.000Z"
+    "updatedAt": "2026-09-28T13:57:57.000Z"
   },
   "rankDetails": [],
   "statsAll": {
@@ -70,11 +70,11 @@
       {
         "modeId": 3,
         "characterId": 118,
-        "play": 223,
-        "win": 195,
-        "mvp": 195,
-        "kill": 613,
-        "death": 142
+        "play": 244,
+        "win": 207,
+        "mvp": 207,
+        "kill": 659,
+        "death": 176
       },
       {
         "modeId": 3,
@@ -106,20 +106,20 @@
       {
         "modeId": 3,
         "characterId": 139,
-        "play": 68,
-        "win": 57,
-        "mvp": 57,
-        "kill": 180,
-        "death": 62
+        "play": 74,
+        "win": 59,
+        "mvp": 59,
+        "kill": 188,
+        "death": 78
       },
       {
         "modeId": 3,
         "characterId": 143,
-        "play": 259,
-        "win": 189,
-        "mvp": 189,
-        "kill": 642,
-        "death": 369
+        "play": 327,
+        "win": 248,
+        "mvp": 248,
+        "kill": 829,
+        "death": 448
       },
       {
         "modeId": 15,
@@ -151,11 +151,11 @@
       {
         "modeId": 15,
         "characterId": 143,
-        "play": 4,
-        "win": 4,
-        "mvp": 4,
-        "kill": 24,
-        "death": 0
+        "play": 13,
+        "win": 13,
+        "mvp": 13,
+        "kill": 75,
+        "death": 4
       },
       {
         "modeId": 18,
@@ -195,12 +195,21 @@
       },
       {
         "modeId": 18,
+        "characterId": 139,
+        "play": 5,
+        "win": 4,
+        "mvp": 4,
+        "kill": 14,
+        "death": 4
+      },
+      {
+        "modeId": 18,
         "characterId": 143,
-        "play": 8,
-        "win": 8,
-        "mvp": 8,
-        "kill": 44,
-        "death": 5
+        "play": 21,
+        "win": 18,
+        "mvp": 21,
+        "kill": 99,
+        "death": 10
       }
     ]
   },
@@ -208,7 +217,7 @@
     {
       "name": "盡人事待天命",
       "first_seen_at": "2026-09-22T03:13:06.766Z",
-      "last_seen_at": "2026-09-22T03:48:17.877Z"
+      "last_seen_at": "2026-09-28T14:52:05.847Z"
     }
   ]
 }
