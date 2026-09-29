@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-09-28T15:24:56.238Z",
+  "saved_at": "2026-09-29T19:35:27.890Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -16,7 +16,7 @@
     "iconId": 400164,
     "frameId": 1000093,
     "clan_name": "KPROfessioNal",
-    "updatedAt": "2026-09-28T14:24:41.000Z"
+    "updatedAt": "2026-09-29T18:53:01.000Z"
   },
   "rankDetails": [
     {
@@ -4547,7 +4547,7 @@
     {
       "name": "영ุ๊원ุ๊",
       "first_seen_at": "2026-09-28T14:53:00.647Z",
-      "last_seen_at": "2026-09-28T15:24:56.238Z"
+      "last_seen_at": "2026-09-29T19:35:27.890Z"
     }
   ]
 }
