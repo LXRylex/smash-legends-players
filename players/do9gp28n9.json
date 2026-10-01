@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-07-21T13:17:56.189Z",
+  "saved_at": "2026-10-01T15:00:05.786Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -606,6 +606,20 @@
       "remainPlacement": 0,
       "totalPlacement": 6,
       "gameCount": 9
+    },
+    {
+      "user_uid": "do9gp28n9",
+      "seasonId": 55,
+      "modeId": 99,
+      "rankPoint": 0,
+      "maxRankPoint": 0,
+      "tier": "UNRANKED",
+      "tierScore": 0,
+      "maxTier": "UNRANKED",
+      "maxTierScore": 0,
+      "remainPlacement": 6,
+      "totalPlacement": 6,
+      "gameCount": 0
     }
   ],
   "statsAll": {
@@ -10334,7 +10348,7 @@
     {
       "name": "Ulquiorra",
       "first_seen_at": "2026-07-21T13:17:56.189Z",
-      "last_seen_at": "2026-07-21T13:17:56.189Z"
+      "last_seen_at": "2026-10-01T15:00:05.786Z"
     }
   ]
 }
