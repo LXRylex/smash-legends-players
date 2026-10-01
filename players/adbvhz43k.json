@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-07-20T09:27:01.744Z",
+  "saved_at": "2026-10-01T15:12:11.026Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -8,15 +8,15 @@
   },
   "player": {
     "user_uid": "adbvhz43k",
-    "name": "core",
+    "name": "Medix",
     "level": 285,
-    "trophy": 48299,
+    "trophy": 48243,
     "highestTrophy": 48299,
-    "fame": 45085,
-    "iconId": 414301,
+    "fame": 46205,
+    "iconId": 400164,
     "frameId": 1000093,
     "clan_name": "Insync",
-    "updatedAt": "2026-07-05T22:39:01.000Z"
+    "updatedAt": "2026-10-01T10:12:54.000Z"
   },
   "rankDetails": [
     {
@@ -1972,11 +1972,11 @@
       {
         "modeId": 3,
         "characterId": 108,
-        "play": 1051,
-        "win": 760,
-        "mvp": 760,
-        "kill": 2507,
-        "death": 1337
+        "play": 1057,
+        "win": 765,
+        "mvp": 765,
+        "kill": 2524,
+        "death": 1346
       },
       {
         "modeId": 3,
@@ -2008,11 +2008,11 @@
       {
         "modeId": 3,
         "characterId": 112,
-        "play": 883,
-        "win": 683,
-        "mvp": 683,
-        "kill": 2233,
-        "death": 1021
+        "play": 885,
+        "win": 684,
+        "mvp": 684,
+        "kill": 2237,
+        "death": 1024
       },
       {
         "modeId": 3,
@@ -2035,10 +2035,10 @@
       {
         "modeId": 3,
         "characterId": 115,
-        "play": 121,
-        "win": 75,
-        "mvp": 75,
-        "kill": 250,
+        "play": 122,
+        "win": 76,
+        "mvp": 76,
+        "kill": 253,
         "death": 189
       },
       {
@@ -2098,11 +2098,11 @@
       {
         "modeId": 3,
         "characterId": 122,
-        "play": 154,
-        "win": 94,
-        "mvp": 94,
-        "kill": 302,
-        "death": 223
+        "play": 156,
+        "win": 96,
+        "mvp": 96,
+        "kill": 308,
+        "death": 224
       },
       {
         "modeId": 3,
@@ -2143,11 +2143,11 @@
       {
         "modeId": 3,
         "characterId": 127,
-        "play": 337,
-        "win": 263,
-        "mvp": 263,
-        "kill": 858,
-        "death": 376
+        "play": 341,
+        "win": 266,
+        "mvp": 266,
+        "kill": 869,
+        "death": 380
       },
       {
         "modeId": 3,
@@ -2287,11 +2287,11 @@
       {
         "modeId": 3,
         "characterId": 143,
-        "play": 759,
-        "win": 635,
-        "mvp": 635,
-        "kill": 1985,
-        "death": 797
+        "play": 762,
+        "win": 637,
+        "mvp": 637,
+        "kill": 1993,
+        "death": 802
       },
       {
         "modeId": 3,
@@ -4663,11 +4663,11 @@
       {
         "modeId": 32,
         "characterId": 127,
-        "play": 1,
-        "win": 1,
-        "mvp": 1,
-        "kill": 6,
-        "death": 0
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 11,
+        "death": 1
       },
       {
         "modeId": 32,
@@ -4744,6 +4744,11 @@
       "name": "core",
       "first_seen_at": "2026-07-20T09:27:01.744Z",
       "last_seen_at": "2026-07-20T09:27:01.744Z"
+    },
+    {
+      "name": "Medix",
+      "first_seen_at": "2026-10-01T15:12:11.026Z",
+      "last_seen_at": "2026-10-01T15:12:11.026Z"
     }
   ]
 }
