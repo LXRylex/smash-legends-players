@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-10-01T22:20:19.607Z",
+  "saved_at": "2026-10-01T22:31:43.909Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -10,13 +10,13 @@
     "user_uid": "gypbghuhz",
     "name": "Alephan82",
     "level": 45,
-    "trophy": 6607,
-    "highestTrophy": 6617,
+    "trophy": 6618,
+    "highestTrophy": 6618,
     "fame": 0,
     "iconId": 400001,
     "frameId": 1000003,
     "clan_name": "BR1CK3D",
-    "updatedAt": "2026-10-01T22:15:00.000Z"
+    "updatedAt": "2026-10-01T22:26:12.000Z"
   },
   "rankDetails": [
     {
@@ -260,10 +260,10 @@
       {
         "modeId": 4,
         "characterId": 137,
-        "play": 72,
-        "win": 69,
-        "mvp": 44,
-        "kill": 281,
+        "play": 74,
+        "win": 71,
+        "mvp": 46,
+        "kill": 282,
         "death": 13
       },
       {
@@ -407,7 +407,7 @@
     {
       "name": "Alephan82",
       "first_seen_at": "2026-10-01T22:20:19.607Z",
-      "last_seen_at": "2026-10-01T22:20:19.607Z"
+      "last_seen_at": "2026-10-01T22:31:43.909Z"
     }
   ]
 }
