@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-07-21T13:15:46.771Z",
+  "saved_at": "2026-10-01T14:48:38.726Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -16,7 +16,7 @@
     "iconId": 404011,
     "frameId": 1000006,
     "clan_name": null,
-    "updatedAt": "2026-04-02T17:57:34.000Z"
+    "updatedAt": "2026-07-23T22:16:01.000Z"
   },
   "rankDetails": [
     {
@@ -594,7 +594,7 @@
     {
       "name": "bricklover97",
       "first_seen_at": "2026-07-21T13:15:46.771Z",
-      "last_seen_at": "2026-07-21T13:15:46.771Z"
+      "last_seen_at": "2026-10-01T14:48:38.726Z"
     }
   ]
 }
