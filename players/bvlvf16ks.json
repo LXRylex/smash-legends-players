@@ -1,0 +1,250 @@
+{
+  "schema_version": 2,
+  "saved_at": "2026-10-01T15:01:31.272Z",
+  "source": {
+    "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
+    "cache": "",
+    "cache_date": ""
+  },
+  "player": {
+    "user_uid": "bvlvf16ks",
+    "name": "Eternal艾爱",
+    "level": 30,
+    "trophy": 2922,
+    "highestTrophy": 2922,
+    "fame": 0,
+    "iconId": 400022,
+    "frameId": 1000007,
+    "clan_name": null,
+    "updatedAt": "2026-08-03T11:37:29.000Z"
+  },
+  "rankDetails": [],
+  "statsAll": {
+    "competitive": [],
+    "mode": [
+      {
+        "modeId": 3,
+        "characterId": 101,
+        "play": 4,
+        "win": 4,
+        "mvp": 4,
+        "kill": 12,
+        "death": 1
+      },
+      {
+        "modeId": 3,
+        "characterId": 104,
+        "play": 3,
+        "win": 3,
+        "mvp": 3,
+        "kill": 8,
+        "death": 2
+      },
+      {
+        "modeId": 3,
+        "characterId": 105,
+        "play": 1,
+        "win": 0,
+        "mvp": 0,
+        "kill": 2,
+        "death": 3
+      },
+      {
+        "modeId": 3,
+        "characterId": 108,
+        "play": 6,
+        "win": 5,
+        "mvp": 5,
+        "kill": 16,
+        "death": 5
+      },
+      {
+        "modeId": 3,
+        "characterId": 116,
+        "play": 2,
+        "win": 2,
+        "mvp": 2,
+        "kill": 6,
+        "death": 0
+      },
+      {
+        "modeId": 3,
+        "characterId": 127,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 3,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 104,
+        "play": 2,
+        "win": 2,
+        "mvp": 1,
+        "kill": 8,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 116,
+        "play": 3,
+        "win": 3,
+        "mvp": 1,
+        "kill": 2,
+        "death": 1
+      },
+      {
+        "modeId": 4,
+        "characterId": 125,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 3,
+        "death": 0
+      },
+      {
+        "modeId": 4,
+        "characterId": 127,
+        "play": 9,
+        "win": 6,
+        "mvp": 5,
+        "kill": 37,
+        "death": 16
+      },
+      {
+        "modeId": 15,
+        "characterId": 105,
+        "play": 8,
+        "win": 8,
+        "mvp": 8,
+        "kill": 46,
+        "death": 3
+      },
+      {
+        "modeId": 15,
+        "characterId": 125,
+        "play": 4,
+        "win": 4,
+        "mvp": 4,
+        "kill": 21,
+        "death": 5
+      },
+      {
+        "modeId": 15,
+        "characterId": 127,
+        "play": 2,
+        "win": 1,
+        "mvp": 2,
+        "kill": 6,
+        "death": 4
+      },
+      {
+        "modeId": 15,
+        "characterId": 149,
+        "play": 8,
+        "win": 6,
+        "mvp": 4,
+        "kill": 29,
+        "death": 12
+      },
+      {
+        "modeId": 17,
+        "characterId": 105,
+        "play": 5,
+        "win": 5,
+        "mvp": 1,
+        "kill": 13,
+        "death": 1
+      },
+      {
+        "modeId": 17,
+        "characterId": 149,
+        "play": 6,
+        "win": 5,
+        "mvp": 1,
+        "kill": 5,
+        "death": 9
+      },
+      {
+        "modeId": 18,
+        "characterId": 101,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 2,
+        "death": 1
+      },
+      {
+        "modeId": 18,
+        "characterId": 105,
+        "play": 34,
+        "win": 31,
+        "mvp": 34,
+        "kill": 95,
+        "death": 13
+      },
+      {
+        "modeId": 18,
+        "characterId": 108,
+        "play": 1,
+        "win": 1,
+        "mvp": 1,
+        "kill": 3,
+        "death": 0
+      },
+      {
+        "modeId": 18,
+        "characterId": 116,
+        "play": 1,
+        "win": 1,
+        "mvp": 0,
+        "kill": 1,
+        "death": 0
+      },
+      {
+        "modeId": 18,
+        "characterId": 122,
+        "play": 5,
+        "win": 5,
+        "mvp": 2,
+        "kill": 9,
+        "death": 1
+      },
+      {
+        "modeId": 18,
+        "characterId": 125,
+        "play": 8,
+        "win": 7,
+        "mvp": 6,
+        "kill": 20,
+        "death": 7
+      },
+      {
+        "modeId": 18,
+        "characterId": 149,
+        "play": 8,
+        "win": 8,
+        "mvp": 5,
+        "kill": 8,
+        "death": 6
+      },
+      {
+        "modeId": 32,
+        "characterId": 149,
+        "play": 37,
+        "win": 31,
+        "mvp": 3,
+        "kill": 78,
+        "death": 41
+      }
+    ]
+  },
+  "name_history": [
+    {
+      "name": "Eternal艾爱",
+      "first_seen_at": "2026-10-01T15:01:31.272Z",
+      "last_seen_at": "2026-10-01T15:01:31.272Z"
+    }
+  ]
+}
