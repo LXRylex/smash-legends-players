@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-07-22T20:44:06.746Z",
+  "saved_at": "2026-10-01T15:08:41.013Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -8,15 +8,15 @@
   },
   "player": {
     "user_uid": "67itevn22",
-    "name": "IDKWhyImHere",
+    "name": "MRCATNIPLOVER",
     "level": 172,
     "trophy": 37358,
     "highestTrophy": 37411,
     "fame": 31665,
-    "iconId": 402037,
-    "frameId": 1000109,
+    "iconId": 400144,
+    "frameId": 1000092,
     "clan_name": "TheSleepyFox",
-    "updatedAt": "2026-07-19T22:51:11.000Z"
+    "updatedAt": "2026-09-11T01:02:45.000Z"
   },
   "rankDetails": [
     {
@@ -3105,6 +3105,11 @@
       "name": "IDKWhyImHere",
       "first_seen_at": "2026-07-22T20:44:06.746Z",
       "last_seen_at": "2026-07-22T20:44:06.746Z"
+    },
+    {
+      "name": "MRCATNIPLOVER",
+      "first_seen_at": "2026-10-01T15:08:41.013Z",
+      "last_seen_at": "2026-10-01T15:08:41.013Z"
     }
   ]
 }
