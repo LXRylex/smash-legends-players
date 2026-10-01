@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-10-01T14:53:39.786Z",
+  "saved_at": "2026-10-01T14:55:10.892Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -13,10 +13,10 @@
     "trophy": 57724,
     "highestTrophy": 57735,
     "fame": 45980,
-    "iconId": 400158,
-    "frameId": 1000008,
+    "iconId": 402036,
+    "frameId": 1000001,
     "clan_name": "YareYare",
-    "updatedAt": "2026-10-01T14:52:01.000Z"
+    "updatedAt": "2026-10-01T14:55:02.000Z"
   },
   "rankDetails": [
     {
@@ -6883,7 +6883,7 @@
     {
       "name": "EdgeLordPino",
       "first_seen_at": "2026-10-01T14:53:39.786Z",
-      "last_seen_at": "2026-10-01T14:53:39.786Z"
+      "last_seen_at": "2026-10-01T14:55:10.892Z"
     }
   ]
 }
