@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-07-19T19:04:14.293Z",
+  "saved_at": "2026-10-01T14:47:43.504Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -12,11 +12,11 @@
     "level": 243,
     "trophy": 46311,
     "highestTrophy": 46322,
-    "fame": 38980,
+    "fame": 39780,
     "iconId": 400502,
     "frameId": 1000002,
     "clan_name": "Impact",
-    "updatedAt": "2026-07-16T17:28:02.000Z"
+    "updatedAt": "2026-09-26T15:48:37.000Z"
   },
   "rankDetails": [
     {
@@ -8408,7 +8408,7 @@
     {
       "name": "PierreToon",
       "first_seen_at": "2025-08-31T09:51:07.855Z",
-      "last_seen_at": "2026-07-19T19:04:14.293Z"
+      "last_seen_at": "2026-10-01T14:47:43.504Z"
     }
   ]
 }
