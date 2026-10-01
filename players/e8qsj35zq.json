@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-07-23T21:51:30.627Z",
+  "saved_at": "2026-10-01T15:14:17.732Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -9,14 +9,14 @@
   "player": {
     "user_uid": "e8qsj35zq",
     "name": "Alter",
-    "level": 611,
-    "trophy": 116741,
-    "highestTrophy": 116936,
-    "fame": 81865,
-    "iconId": 400155,
-    "frameId": 1000094,
+    "level": 629,
+    "trophy": 130344,
+    "highestTrophy": 130369,
+    "fame": 89965,
+    "iconId": 400011,
+    "frameId": 1000092,
     "clan_name": "TheEgoist",
-    "updatedAt": "2026-07-23T03:04:04.000Z"
+    "updatedAt": "2026-10-01T05:59:59.000Z"
   },
   "rankDetails": [
     {
@@ -1361,11 +1361,11 @@
       {
         "modeId": 3,
         "characterId": 130,
-        "play": 25047,
-        "win": 21135,
-        "mvp": 21135,
-        "kill": 66783,
-        "death": 21268
+        "play": 25070,
+        "win": 21154,
+        "mvp": 21154,
+        "kill": 66841,
+        "death": 21298
       },
       {
         "modeId": 3,
@@ -1703,10 +1703,10 @@
       {
         "modeId": 4,
         "characterId": 130,
-        "play": 2186,
-        "win": 1637,
-        "mvp": 842,
-        "kill": 6691,
+        "play": 2187,
+        "win": 1638,
+        "mvp": 843,
+        "kill": 6695,
         "death": 3745
       },
       {
@@ -1973,11 +1973,11 @@
       {
         "modeId": 15,
         "characterId": 130,
-        "play": 9260,
-        "win": 8372,
-        "mvp": 6874,
-        "kill": 38811,
-        "death": 7818
+        "play": 9541,
+        "win": 8643,
+        "mvp": 7083,
+        "kill": 39992,
+        "death": 7941
       },
       {
         "modeId": 15,
@@ -2477,11 +2477,11 @@
       {
         "modeId": 18,
         "characterId": 130,
-        "play": 22188,
-        "win": 20225,
-        "mvp": 17921,
-        "kill": 56922,
-        "death": 12570
+        "play": 25775,
+        "win": 23688,
+        "mvp": 21232,
+        "kill": 65735,
+        "death": 13575
       },
       {
         "modeId": 18,
@@ -2765,10 +2765,10 @@
       {
         "modeId": 32,
         "characterId": 130,
-        "play": 16,
-        "win": 16,
-        "mvp": 10,
-        "kill": 70,
+        "play": 19,
+        "win": 19,
+        "mvp": 12,
+        "kill": 86,
         "death": 9
       }
     ]
@@ -2777,7 +2777,7 @@
     {
       "name": "Alter",
       "first_seen_at": "2026-07-19T10:11:32.596Z",
-      "last_seen_at": "2026-07-23T21:51:30.627Z"
+      "last_seen_at": "2026-10-01T15:14:17.732Z"
     }
   ]
 }
