@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-07-21T17:07:36.771Z",
+  "saved_at": "2026-10-01T15:08:05.526Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -10,13 +10,13 @@
     "user_uid": "lkup1bkw8",
     "name": "Poke",
     "level": 355,
-    "trophy": 54445,
-    "highestTrophy": 54507,
-    "fame": 41960,
+    "trophy": 54524,
+    "highestTrophy": 54524,
+    "fame": 42810,
     "iconId": 400154,
     "frameId": 1000001,
     "clan_name": "Limitless",
-    "updatedAt": "2026-07-19T18:40:13.000Z"
+    "updatedAt": "2026-09-27T00:15:16.000Z"
   },
   "rankDetails": [
     {
@@ -5278,10 +5278,10 @@
       {
         "modeId": 3,
         "characterId": 104,
-        "play": 642,
-        "win": 590,
-        "mvp": 526,
-        "kill": 1757,
+        "play": 643,
+        "win": 591,
+        "mvp": 527,
+        "kill": 1760,
         "death": 511
       },
       {
@@ -5719,11 +5719,11 @@
       {
         "modeId": 4,
         "characterId": 112,
-        "play": 239,
-        "win": 222,
-        "mvp": 143,
-        "kill": 633,
-        "death": 105
+        "play": 243,
+        "win": 226,
+        "mvp": 145,
+        "kill": 651,
+        "death": 106
       },
       {
         "modeId": 4,
@@ -5791,10 +5791,10 @@
       {
         "modeId": 4,
         "characterId": 120,
-        "play": 118,
-        "win": 104,
-        "mvp": 56,
-        "kill": 261,
+        "play": 120,
+        "win": 106,
+        "mvp": 58,
+        "kill": 270,
         "death": 66
       },
       {
@@ -6304,11 +6304,11 @@
       {
         "modeId": 15,
         "characterId": 104,
-        "play": 479,
-        "win": 458,
-        "mvp": 305,
-        "kill": 1877,
-        "death": 494
+        "play": 480,
+        "win": 459,
+        "mvp": 306,
+        "kill": 1883,
+        "death": 495
       },
       {
         "modeId": 15,
@@ -6358,11 +6358,11 @@
       {
         "modeId": 15,
         "characterId": 112,
-        "play": 210,
-        "win": 206,
-        "mvp": 131,
-        "kill": 746,
-        "death": 139
+        "play": 214,
+        "win": 210,
+        "mvp": 133,
+        "kill": 760,
+        "death": 140
       },
       {
         "modeId": 15,
@@ -6970,10 +6970,10 @@
       {
         "modeId": 18,
         "characterId": 112,
-        "play": 478,
-        "win": 456,
-        "mvp": 302,
-        "kill": 1647,
+        "play": 480,
+        "win": 458,
+        "mvp": 304,
+        "kill": 1654,
         "death": 297
       },
       {
@@ -7644,7 +7644,7 @@
     {
       "name": "Poke",
       "first_seen_at": "2026-07-21T17:07:36.771Z",
-      "last_seen_at": "2026-07-21T17:07:36.771Z"
+      "last_seen_at": "2026-10-01T15:08:05.526Z"
     }
   ]
 }
