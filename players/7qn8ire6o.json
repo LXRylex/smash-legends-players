@@ -1,6 +1,6 @@
 {
-  "schema_version": 1,
-  "saved_at": "2026-07-19T10:22:09.976Z",
+  "schema_version": 2,
+  "saved_at": "2026-10-01T15:06:55.510Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -15,7 +15,7 @@
     "fame": 59725,
     "iconId": 400121,
     "frameId": 1000089,
-    "clan_name": "Zerø",
+    "clan_name": null,
     "updatedAt": "2026-07-12T21:01:38.000Z"
   },
   "rankDetails": [
@@ -9315,5 +9315,12 @@
         "death": 10
       }
     ]
-  }
+  },
+  "name_history": [
+    {
+      "name": "BeyondF",
+      "first_seen_at": "2026-07-19T10:22:09.976Z",
+      "last_seen_at": "2026-10-01T15:06:55.510Z"
+    }
+  ]
 }
