@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-10-01T14:32:30.354Z",
+  "saved_at": "2026-10-02T18:52:34.762Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -10,13 +10,13 @@
     "user_uid": "aoehlijh5",
     "name": "TheDisgracedOne",
     "level": 350,
-    "trophy": 63330,
+    "trophy": 63323,
     "highestTrophy": 63360,
     "fame": 47940,
     "iconId": 400144,
     "frameId": 1000052,
     "clan_name": "YareYare",
-    "updatedAt": "2026-10-01T13:53:18.000Z"
+    "updatedAt": "2026-10-02T04:26:15.000Z"
   },
   "rankDetails": [
     {
@@ -4517,11 +4517,11 @@
       {
         "modeId": 15,
         "characterId": 143,
-        "play": 445,
-        "win": 280,
-        "mvp": 314,
-        "kill": 1549,
-        "death": 784
+        "play": 453,
+        "win": 286,
+        "mvp": 322,
+        "kill": 1593,
+        "death": 793
       },
       {
         "modeId": 15,
@@ -6478,7 +6478,7 @@
     {
       "name": "TheDisgracedOne",
       "first_seen_at": "2026-10-01T14:32:30.354Z",
-      "last_seen_at": "2026-10-01T14:32:30.354Z"
+      "last_seen_at": "2026-10-02T18:52:34.762Z"
     }
   ]
 }
