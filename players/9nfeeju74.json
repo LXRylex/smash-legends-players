@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-10-01T15:19:18.253Z",
+  "saved_at": "2026-10-02T18:49:56.241Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -10,13 +10,13 @@
     "user_uid": "9nfeeju74",
     "name": "EdgeLordPino",
     "level": 308,
-    "trophy": 57724,
-    "highestTrophy": 57735,
+    "trophy": 57742,
+    "highestTrophy": 57742,
     "fame": 45980,
     "iconId": 402036,
     "frameId": 1000001,
     "clan_name": "YareYare",
-    "updatedAt": "2026-10-01T15:03:05.000Z"
+    "updatedAt": "2026-10-02T17:51:43.000Z"
   },
   "rankDetails": [
     {
@@ -3451,11 +3451,11 @@
       {
         "modeId": 3,
         "characterId": 125,
-        "play": 57,
-        "win": 36,
-        "mvp": 36,
-        "kill": 124,
-        "death": 96
+        "play": 60,
+        "win": 39,
+        "mvp": 39,
+        "kill": 133,
+        "death": 100
       },
       {
         "modeId": 3,
@@ -6883,7 +6883,7 @@
     {
       "name": "EdgeLordPino",
       "first_seen_at": "2026-10-01T14:53:39.786Z",
-      "last_seen_at": "2026-10-01T15:19:18.253Z"
+      "last_seen_at": "2026-10-02T18:49:56.241Z"
     }
   ]
 }
