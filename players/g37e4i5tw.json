@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "saved_at": "2026-09-16T10:06:19.757Z",
+  "saved_at": "2026-10-03T20:45:35.682Z",
   "source": {
     "upstream": "https://ewy35wnciyp7vdwrsknczl5p7a0njcji.lambda-url.us-east-1.on.aws/api/v1/profile/user",
     "cache": "",
@@ -9,14 +9,14 @@
   "player": {
     "user_uid": "g37e4i5tw",
     "name": "Emchi",
-    "level": 328,
-    "trophy": 39166,
-    "highestTrophy": 39166,
-    "fame": 32070,
+    "level": 329,
+    "trophy": 39135,
+    "highestTrophy": 39201,
+    "fame": 32470,
     "iconId": 411601,
     "frameId": 1000052,
     "clan_name": null,
-    "updatedAt": "2026-09-16T10:03:58.000Z"
+    "updatedAt": "2026-10-03T15:55:37.000Z"
   },
   "rankDetails": [
     {
@@ -2135,11 +2135,11 @@
       {
         "modeId": 3,
         "characterId": 112,
-        "play": 327,
+        "play": 328,
         "win": 242,
         "mvp": 242,
-        "kill": 763,
-        "death": 457
+        "kill": 764,
+        "death": 460
       },
       {
         "modeId": 3,
@@ -2171,11 +2171,11 @@
       {
         "modeId": 3,
         "characterId": 116,
-        "play": 4980,
-        "win": 3609,
-        "mvp": 3609,
-        "kill": 11661,
-        "death": 7081
+        "play": 5027,
+        "win": 3645,
+        "mvp": 3645,
+        "kill": 11780,
+        "death": 7156
       },
       {
         "modeId": 3,
@@ -3386,10 +3386,10 @@
       {
         "modeId": 15,
         "characterId": 116,
-        "play": 1482,
-        "win": 1227,
-        "mvp": 1215,
-        "kill": 6049,
+        "play": 1483,
+        "win": 1228,
+        "mvp": 1216,
+        "kill": 6055,
         "death": 1627
       },
       {
@@ -4407,7 +4407,7 @@
     {
       "name": "Emchi",
       "first_seen_at": "2026-09-16T10:06:19.757Z",
-      "last_seen_at": "2026-09-16T10:06:19.757Z"
+      "last_seen_at": "2026-10-03T20:45:35.682Z"
     }
   ]
 }
